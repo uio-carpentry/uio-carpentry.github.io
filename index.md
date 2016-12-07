@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of Oslo Carpentry
-tagline: University of Oslo Carpentry
+tagline: Carpentry meets UiO
 description: Page for upcoming and past Carpentry workshops at the University of Oslo
 ---
 
