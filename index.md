@@ -22,7 +22,7 @@ For the latest news on *upcoming workshops*, visit our UiO homepage: [uio.no/car
 * two-day [Software Carpentry workshop](https://uio-carpentry.github.io/2016-03-15-Oslo-SWC/)
 * two-day [Data Carpentry Genomics workshop](http://uio-carpentry.github.io/2016-03-15-Oslo-data-bio/) with Tracy Teal (Executive Director Data Carpentry)
 * two-day [Data Carpentry Spatial data workshop](http://uio-carpentry.github.io/2016-03-15-OSLOdataGeo/) with Leah Wasser, Scientists at [NEON](www.neonscience.org)
-* Experimental one-day [Data Carpentry/Reproducibility workshop](https://2016-oslo-repeatability.readthedocs.io/en/latest/) with Titus Brown, assistant professor at [UC Davis](http://ivory.idyll.org/lab/)
+* Experimental one-day [Data Carpentry/Reproducibility workshop](https://2016-oslo-repeatability.readthedocs.io/en/latest/) with Titus Brown, associate professor at [UC Davis](http://ivory.idyll.org/lab/)
 * [Biblioteksløyd beta](https://scriptotek.github.io/2016-03-17-BS/), a Library Carpentry-inspired workshop
 
 ### Two-day workshops
