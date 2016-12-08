@@ -44,6 +44,7 @@ For the latest news on *upcoming workshops*, visit our [UiO homepage](http://www
 * UiO also hosted an [Instructor Training workshop](http://uio-carpentry.github.io/2016-06-30-Oslo-ttt/) in June
 
 ## 2015
+
 ### Two-day workshops
 
 * [February Software Carpentry workshop](https://karinlag.github.io/2015-02-26-Oslo/)
@@ -51,11 +52,13 @@ For the latest news on *upcoming workshops*, visit our [UiO homepage](http://www
 * [December Software Carpentry workshop](https://huguesfontenelle.github.io/2015-12-02-Oslo/)
 
 ## 2013
+
 ### Two-day workshops
 
 * [July Software Carpentry workshop](https://swcarpentry.github.io/2013-07-03-oslo/)
 
 
 ## 2012
+
 ### Two-day workshops
 * [September Software Carpentry workshop](https://swcarpentry.github.io/2012-09-17-oslo/)
