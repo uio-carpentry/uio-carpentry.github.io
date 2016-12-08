@@ -12,13 +12,13 @@ To facilitate sharing and reusing of data among researchers, Software Carpentry,
 
 We use this page for listing *previous Carpentry* workshops at the University of Oslo.
 
-For the latest news on *upcoming workshops*, visit our [UiO homepage](http://www.uio.no/english/for-employees/support/research/research-data/training/carpentry/).
+For the latest news on *upcoming workshops*, visit our UiO homepage: [uio.no/carpentry](http://uio.no/carpentry).
 
 
 ## 2016
 
 ### March 'Carpentry week' workshops 
-* Miniseminar ["Open Data Skills"](https://www.ub.uio.no/english/courses-events/events/ureal/2016/160314dataskills.html).
+* Miniseminar ["Open Data Skills"](https://www.ub.uio.no/english/courses-events/events/ureal/2016/160314dataskills.html)
 * two-day [Software Carpentry workshop](https://uio-carpentry.github.io/2016-03-15-Oslo-SWC/)
 * two-day [Data Carpentry Genomics workshop](http://uio-carpentry.github.io/2016-03-15-Oslo-data-bio/) with Tracy Teal (Executive Director Data Carpentry)
 * two-day [Data Carpentry Spatial data workshop](http://uio-carpentry.github.io/2016-03-15-OSLOdataGeo/) with Leah Wasser, Scientists at [NEON](www.neonscience.org)
