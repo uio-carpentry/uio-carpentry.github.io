@@ -1,11 +1,3 @@
----
-layout: page
-title: University of Oslo Carpentry
-tagline: Carpentry meets UiO
-description: Page for previous Carpentry workshops at the University of Oslo
----
-
-
 # Carpentry@UiO
 
 To facilitate sharing and reusing of data among researchers, Software Carpentry, Data Carpentry and Library Carpentry workshops are offered to PhDs and researchers at UiO.
