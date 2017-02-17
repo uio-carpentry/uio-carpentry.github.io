@@ -1,6 +1,6 @@
 # Carpentry at the University of Oslo
 
-To facilitate sharing and reusing of data among researchers, Software Carpentry, Data Carpentry and Library Carpentry workshops are offered to PhDs and researchers at the University of Oslo ([UiO](uio.no)).
+To facilitate sharing and re-using of data among researchers, Software Carpentry, Data Carpentry and Library Carpentry workshops are offered to PhDs and researchers from all Faculties at the University of Oslo ([UiO](uio.no)).
 
 We use this page for listing *previous Carpentry* workshops at the UiO.
 
