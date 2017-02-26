@@ -8,17 +8,18 @@ For the latest news on *upcoming workshops*, visit our UiO homepage: [uio.no/car
 
 ## 2017
 
-### Research Bazaar workshops
+### February [Research Bazaar](http://www.ub.uio.no/english/courses-events/events/ureal/2017/170201ResBaz.html) workshops
 
 * two-day [Software Carpentry workshop](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/170202_SWC)
-* half-day workshop [GitHub Collaboration](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/170202_github)
-* half-day workshop [Zotero](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/170202_zotero)
-* half-day workshop [Share and collaborate with OneDrive and OneNote](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/170202_OneDrive)
-* half-day workshop [Jupyter Notebook and IPython](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/170202_jupyter)
-* half-day workshop [Big Data - pyspark](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/170203_bigdata)
-* half-day workshop [LaTeX](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/170203_latex)
-* half-day workshop [GNU Make](https://uio-carpentry.github.io/2017-02-01-make/)
-* half-day workshop [Data Management Plans](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/170201_datamanagement)
+* two-day [Library Carpentry workshop](http://www.ub.uio.no/kurs-arrangement/kurs/enkeltstaende/bibsloid/tid-og-sted/170202.html)
+* half-day [Data Management Plans workshop](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/170201_datamanagement)
+* half-day [GNU Make workshop](https://uio-carpentry.github.io/2017-02-01-make/)
+* half-day [Collaboration with GitHub workshop](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/170202_github)
+* half-day [Zotero workshop](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/170202_zotero)
+* half-day [Share and collaborate with OneDrive and OneNote workshop](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/170202_OneDrive)
+* half-day [Jupyter Notebook and IPython workshop](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/170202_jupyter)
+* half-day [Big Data - pyspark workshop](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/170203_bigdata)
+* half-day [LaTeX workshop](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/170203_latex)
 
 ### One-day workshops
 * January one-day workshop [R for Reproducible Scientific Analysis](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/161801_R)
@@ -35,8 +36,8 @@ For the latest news on *upcoming workshops*, visit our UiO homepage: [uio.no/car
 * [Biblioteksløyd beta](https://scriptotek.github.io/2016-03-17-BS/), a Library Carpentry-inspired workshop
 
 ### Two-day workshops
-* [February Software Carpentry workshop](http://uio-carpentry.github.io/2016-02-01-Oslo/)
-* [June Software Carpentry workshop](https://uio-carpentry.github.io/2016-06-20-Oslo-SWC/)
+* February [Software Carpentry workshop](http://uio-carpentry.github.io/2016-02-01-Oslo/)
+* June [Software Carpentry workshop](https://uio-carpentry.github.io/2016-06-20-Oslo-SWC/)
 
 ### One-day workshops
 * May [R workshop](http://uio-carpentry.github.io/2016-05-10-R/)
