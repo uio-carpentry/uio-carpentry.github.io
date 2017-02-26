@@ -10,6 +10,7 @@ For the latest news on *upcoming workshops*, visit our UiO homepage: [uio.no/car
 
 ### Research Bazaar workshops
 
+* two-day [Software Carpentry workshop](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/170202_SWC)
 * half-day workshop [GitHub Collaboration](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/170202_github)
 * half-day workshop [Zotero](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/170202_zotero)
 * half-day workshop [Share and collaborate with OneDrive and OneNote](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/170202_OneDrive)
@@ -20,7 +21,8 @@ For the latest news on *upcoming workshops*, visit our UiO homepage: [uio.no/car
 * half-day workshop [Data Management Plans](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/170201_datamanagement)
 
 ### One-day workshops
-* one-day workshop [R for Reproducible Scientific Analysis](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/161801_R)
+* January one-day workshop [R for Reproducible Scientific Analysis](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/161801_R)
+* February one-day workshop [Data Management Plans](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/170201_datamanagement)
 
 ## 2016
 
@@ -37,14 +39,14 @@ For the latest news on *upcoming workshops*, visit our UiO homepage: [uio.no/car
 * [June Software Carpentry workshop](https://uio-carpentry.github.io/2016-06-20-Oslo-SWC/)
 
 ### One-day workshops
-* [May R workshop](http://uio-carpentry.github.io/2016-05-10-R/)
-* [August Unix Shell workshop](https://uio-carpentry.github.io/2016-08-23-unix/)
-* [August Programming in Python workshop](https://uio-carpentry.github.io/2016-08-31-python/)
-* [September Programming in R workshop](https://uio-carpentry.github.io/2016-09-14-R/)
-* [October Unix Shell  workshop](https://uio-carpentry.github.io/2016-10-12-unix/)
-* [October Version Control with Git workshop](https://uio-carpentry.github.io/2016-10-26-git/)
-* [November Automation and Make workshop](https://uio-carpentry.github.io/2016-11-09-make/)
-* [December Open Research data workshop](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/161205_RDM)
+* May [R workshop](http://uio-carpentry.github.io/2016-05-10-R/)
+* August [Unix Shell workshop](https://uio-carpentry.github.io/2016-08-23-unix/)
+* August [Programming in Python workshop](https://uio-carpentry.github.io/2016-08-31-python/)
+* September [Programming in R workshop](https://uio-carpentry.github.io/2016-09-14-R/)
+* October [Unix Shell  workshop](https://uio-carpentry.github.io/2016-10-12-unix/)
+* October [Version Control with Git workshop](https://uio-carpentry.github.io/2016-10-26-git/)
+* November [Automation and Make workshop](https://uio-carpentry.github.io/2016-11-09-make/)
+* December [Open Research data workshop](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/161205_RDM)
 
 ### Other workshops
 * UiO also hosted an [Instructor Training workshop](http://uio-carpentry.github.io/2016-06-30-Oslo-ttt/) in June
@@ -53,18 +55,18 @@ For the latest news on *upcoming workshops*, visit our UiO homepage: [uio.no/car
 
 ### Two-day workshops
 
-* [February Software Carpentry workshop](https://karinlag.github.io/2015-02-26-Oslo/)
-* [June Software Carpentry workshop](https://lexnederbragt.github.io/2015-06-02-Oslo/)
-* [December Software Carpentry workshop](https://huguesfontenelle.github.io/2015-12-02-Oslo/)
+* February [Software Carpentry workshop](https://karinlag.github.io/2015-02-26-Oslo/)
+* June [Software Carpentry workshop](https://lexnederbragt.github.io/2015-06-02-Oslo/)
+* December [Software Carpentry workshop](https://huguesfontenelle.github.io/2015-12-02-Oslo/)
 
 ## 2013
 
 ### Two-day workshops
 
-* [July Software Carpentry workshop](https://swcarpentry.github.io/2013-07-03-oslo/)
+* July [Software Carpentry workshop](https://swcarpentry.github.io/2013-07-03-oslo/)
 
 
 ## 2012
 
 ### Two-day workshops
-* [September Software Carpentry workshop](https://swcarpentry.github.io/2012-09-17-oslo/)
+* September [Software Carpentry workshop](https://swcarpentry.github.io/2012-09-17-oslo/)
