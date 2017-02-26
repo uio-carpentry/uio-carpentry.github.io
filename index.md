@@ -10,6 +10,7 @@ For the latest news on *upcoming workshops*, visit our UiO homepage: [uio.no/car
 
 ### February [Research Bazaar](http://www.ub.uio.no/english/courses-events/events/ureal/2017/170201ResBaz.html) workshops
 
+* miniseminar ["Digital tools for managing and sharing research data"](http://www.ub.uio.no/english/courses-events/events/ureal/2017/170202_presentations)
 * two-day [Software Carpentry workshop](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/170202_SWC)
 * two-day [Library Carpentry workshop](http://www.ub.uio.no/kurs-arrangement/kurs/enkeltstaende/bibsloid/tid-og-sted/170202.html)
 * half-day [Data Management Plans workshop](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/170201_datamanagement)
