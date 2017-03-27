@@ -24,7 +24,6 @@ For the latest news on **upcoming workshops**, visit our UiO homepage: [uio.no/c
 
 ### One-day workshops
 * January one-day workshop [R for Reproducible Scientific Analysis](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/161801_R)
-* February one-day workshop [Data Management Plans](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/170201_datamanagement)
 * March [Unix Shell workshop](https://uio-carpentry.github.io/2017-03-15-unix/)
 
 ## 2016
