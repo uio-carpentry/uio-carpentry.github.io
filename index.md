@@ -12,7 +12,7 @@ For the latest news on **upcoming workshops**, visit our UiO homepage: [uio.no/c
 
 * Miniseminar ["Digital tools for managing and sharing research data"](http://www.ub.uio.no/english/courses-events/events/ureal/2017/170202_presentations)
 * Two-day [Software Carpentry workshop](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/170202_SWC)
-* Two-day [Library Carpentry workshop](http://www.ub.uio.no/kurs-arrangement/kurs/enkeltstaende/bibsloid/tid-og-sted/170202.html)
+* Two-day [Library Carpentry workshop](https://uio-carpentry.github.io/2017-02-02-librarycarpentry/)
 * Half-day [Data Management Plans workshop](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/170201_datamanagement)
 * Half-day [GNU Make workshop](https://uio-carpentry.github.io/2017-02-01-make/)
 * Half-day [Collaboration with GitHub workshop](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/170202_github)
@@ -25,6 +25,7 @@ For the latest news on **upcoming workshops**, visit our UiO homepage: [uio.no/c
 ### One-day workshops
 * January one-day workshop [R for Reproducible Scientific Analysis](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/161801_R)
 * February one-day workshop [Data Management Plans](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/170201_datamanagement)
+* March [Unix Shell workshop](https://uio-carpentry.github.io/2017-03-15-unix/)
 
 ## 2016
 
