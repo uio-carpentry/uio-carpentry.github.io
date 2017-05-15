@@ -25,10 +25,14 @@ For the latest news on **upcoming workshops**, visit our UiO homepage: [uio.no/c
 ### One-day workshops
 * January one-day workshop [R for Reproducible Scientific Analysis](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/161801_R)
 * March [Unix Shell workshop](https://uio-carpentry.github.io/2017-03-15-unix/)
+* March [Python workshop](https://uio-carpentry.github.io/2017-03-29-python/)
+* April [Programming in R for Reproducible Scientific Analysis workshop](https://uio-carpentry.github.io/2017-04-05_R_tidyverse/)
+* April [Version control with git workshop](https://uio-carpentry.github.io/2017-04-26-git/)
+* May [Databases with SQL workshop](https://uio-carpentry.github.io/2017-05-10-sql/)
 
 ## 2016
 
-### March 'Carpentry week' workshops 
+### March 'Carpentry week' workshops
 * Miniseminar ["Open Data Skills"](https://www.ub.uio.no/english/courses-events/events/ureal/2016/160314dataskills.html)
 * Two-day [Software Carpentry workshop](https://uio-carpentry.github.io/2016-03-15-Oslo-SWC/)
 * Two-day [Data Carpentry Genomics workshop](http://uio-carpentry.github.io/2016-03-15-Oslo-data-bio/) with Tracy Teal (Executive Director Data Carpentry)
