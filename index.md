@@ -22,13 +22,19 @@ For the latest news on **upcoming workshops**, visit our UiO homepage: [uio.no/c
 * Half-day [Big Data - pyspark workshop](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/170203_bigdata)
 * Half-day [LaTeX workshop](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/170203_latex)
 
+### Two-day workshops
+
+* June [Tidy Programming in R for Reproducible Scientific Analysis workshop](https://uio-carpentry.github.io/2017-06-06_R_tidyverse/)
+
 ### One-day workshops
-* January one-day workshop [R for Reproducible Scientific Analysis](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/161801_R)
+* January [R for Reproducible Scientific Analysis](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/161801_R)
 * March [Unix Shell workshop](https://uio-carpentry.github.io/2017-03-15-unix/)
 * March [Python workshop](https://uio-carpentry.github.io/2017-03-29-python/)
 * April [Programming in R for Reproducible Scientific Analysis workshop](https://uio-carpentry.github.io/2017-04-05_R_tidyverse/)
 * April [Version control with git workshop](https://uio-carpentry.github.io/2017-04-26-git/)
 * May [Databases with SQL workshop](https://uio-carpentry.github.io/2017-05-10-sql/)
+* August [Python workshop](https://uio-carpentry.github.io/2017-08-15-python/)
+* September [Spatio-temporal data in Python workshop](https://uio-carpentry.github.io/2017-09-29-geopython/)
 
 ## 2016
 
