@@ -33,8 +33,10 @@ For the latest news on **upcoming workshops**, visit our UiO homepage: [uio.no/c
 * April [Programming in R for Reproducible Scientific Analysis workshop](https://uio-carpentry.github.io/2017-04-05_R_tidyverse/)
 * April [Version control with git workshop](https://uio-carpentry.github.io/2017-04-26-git/)
 * May [Databases with SQL workshop](https://uio-carpentry.github.io/2017-05-10-sql/)
-* August [Python workshop](https://uio-carpentry.github.io/2017-08-15-python/)
+* May [Writing and publishing on the web together using Github](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/170524_writing_git)
+* August [Plotting and Programming Python workshop](https://uio-carpentry.github.io/2017-08-15-python/)
 * September [Spatio-temporal data in Python workshop](https://uio-carpentry.github.io/2017-09-29-geopython/)
+* October [Unix shell workshop](https://uio-carpentry.github.io/2017-10-27-unix/)
 
 ## 2016
 
