@@ -41,6 +41,8 @@ For the latest news on **upcoming workshops**, visit our UiO homepage: [uio.no/c
 * November [R for Reproducible Research workshop](https://uio-carpentry.github.io/2017-11-24-R/)
 * December [Writing and publishing on the web together using Github](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/171208_github)
 
+In addition we organized two Data Therapy sessions in November and December.
+
 ## 2016
 
 ### March 'Carpentry week' workshops
