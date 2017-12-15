@@ -49,7 +49,7 @@ In addition we organized two Data Therapy sessions in November and December.
 * Miniseminar ["Open Data Skills"](https://www.ub.uio.no/english/courses-events/events/ureal/2016/160314dataskills.html)
 * Two-day [Software Carpentry workshop](https://uio-carpentry.github.io/2016-03-15-Oslo-SWC/)
 * Two-day [Data Carpentry Genomics workshop](http://uio-carpentry.github.io/2016-03-15-Oslo-data-bio/) with Tracy Teal (Executive Director Data Carpentry)
-* Two-day [Data Carpentry Spatial data workshop](http://uio-carpentry.github.io/2016-03-15-OSLOdataGeo/) with Leah Wasser, Scientists at [NEON](http://www.neonscience.org)
+* Two-day [Data Carpentry Spatial data workshop](http://uio-carpentry.github.io/2016-03-15-OSLOdataGeo/) with Leah Wasser, currently at [Eath Lab, University of Colorado](https://www.colorado.edu/earthlab/)
 * Experimental one-day [Data Carpentry/Reproducibility workshop](https://2016-oslo-repeatability.readthedocs.io/en/latest/) with Titus Brown, associate professor at [UC Davis](http://ivory.idyll.org/lab/)
 * [Biblioteksløyd beta](https://scriptotek.github.io/2016-03-17-BS/), a Library Carpentry-inspired workshop
 
