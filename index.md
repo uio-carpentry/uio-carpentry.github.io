@@ -37,6 +37,9 @@ For the latest news on **upcoming workshops**, visit our UiO homepage: [uio.no/c
 * August [Plotting and Programming Python workshop](https://uio-carpentry.github.io/2017-08-15-python/)
 * September [Spatio-temporal data in Python workshop](https://uio-carpentry.github.io/2017-09-29-geopython/)
 * October [Unix shell workshop](https://uio-carpentry.github.io/2017-10-27-unix/)
+* November [Python workshop](https://uio-carpentry.github.io/2017-11-10-python/)
+* November [R for Reproducible Research workshop](https://uio-carpentry.github.io/2017-11-24-R/)
+* December [Writing and publishing on the web together using Github](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/171208_github)
 
 ## 2016
 
