@@ -9,6 +9,22 @@ We use this page for listing *previous Carpentry* workshops at the UiO.
 
 For the latest news on **upcoming workshops**, visit our UiO homepage: [uio.no/carpentry](http://uio.no/carpentry).
 
+## 2018
+
+### February [Research Bazaar](http://www.ub.uio.no/english/courses-events/events/all-libraries/2018/resbaz-2018.html) workshops
+
+* Two-day pre-Research Bazaar [Software Carpentry workshop](https://uio-carpentry.github.io/2018-02-05-Oslo/)
+* One-day [Carpentry@UiO - Making your software robust](https://uio-carpentry.github.io/2018-02-09-robust-sw/)
+* One-day [Reproducible Research with Interactive Jupyter Dashboards](https://uio-carpentry.github.io/2018-02-08-dashboards/)
+
+### Two-day workshops
+
+* February [Tidy Programming in R for Reproducible Scientific Analysis](https://uio-carpentry.github.io/2018-02-15-R-tidyverse/)
+
+### One-day workshops
+
+* January [Unix Shell workshop](https://uio-carpentry.github.io/2018-01-18-unix/)
+
 ## 2017
 
 ### February [Research Bazaar](http://www.ub.uio.no/english/courses-events/events/ureal/2017/170201ResBaz.html) workshops
