@@ -14,7 +14,7 @@ For the latest news on **upcoming workshops**, visit our UiO homepage: [uio.no/c
 ### February [Research Bazaar](http://www.ub.uio.no/english/courses-events/events/all-libraries/2018/resbaz-2018.html) workshops
 
 * Two-day pre-Research Bazaar [Software Carpentry workshop](https://uio-carpentry.github.io/2018-02-05-Oslo/)
-* One-day [Carpentry@UiO - Making your software robust](https://uio-carpentry.github.io/2018-02-09-robust-sw/)
+* One-day [Making your software robust](https://uio-carpentry.github.io/2018-02-09-robust-sw/)
 * One-day [Reproducible Research with Interactive Jupyter Dashboards](https://uio-carpentry.github.io/2018-02-08-dashboards/)
 
 ### Two-day workshops
