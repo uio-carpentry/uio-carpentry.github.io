@@ -23,12 +23,12 @@ For the latest news on **upcoming workshops**, visit our UiO homepage: [uio.no/c
 
 ### One-day workshops
 
-* January [Unix Shell workshop](https://uio-carpentry.github.io/2018-01-18-unix/)
+* January [Unix Shell](https://uio-carpentry.github.io/2018-01-18-unix/)
 * April [Version Control with Git](https://uio-carpentry.github.io/2018-04-05-Git/)
 
 ### Half-day workshops
 
-* April [Software Carpentry: Automation and Make](https://uio-carpentry.github.io/2018-04-19-make/)
+* April [Automation and Make](https://uio-carpentry.github.io/2018-04-19-make/)
 
 ## 2017
 
