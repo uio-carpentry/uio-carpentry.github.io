@@ -26,6 +26,10 @@ For the latest news on **upcoming workshops**, visit our UiO homepage: [uio.no/c
 * January [Unix Shell workshop](https://uio-carpentry.github.io/2018-01-18-unix/)
 * April [Version Control with Git](https://uio-carpentry.github.io/2018-04-05-Git/)
 
+### Half-day workshops
+
+* April [Software Carpentry: Automation and Make](https://uio-carpentry.github.io/2018-04-19-make/)
+
 ## 2017
 
 ### February [Research Bazaar](http://www.ub.uio.no/english/courses-events/events/ureal/2017/170201ResBaz.html) workshops
