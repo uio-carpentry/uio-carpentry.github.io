@@ -11,6 +11,11 @@ For the latest news on **upcoming workshops**, visit our UiO homepage: [uio.no/c
 
 ## 2018
 
+### UPCOMING
+
+* June 7-8 [Software Carpentry Workshop](https://uio-carpentry.github.io/2018-06-07-Oslo/)
+* June 21-22 [Carpentries in-person Instructor Training](https://uio-carpentry.github.io/2018-06-21-Oslo-ttt/)
+
 ### February [Research Bazaar](http://www.ub.uio.no/english/courses-events/events/all-libraries/2018/resbaz-2018.html) workshops
 
 * Two-day pre-Research Bazaar [Software Carpentry workshop](https://uio-carpentry.github.io/2018-02-05-Oslo/)
