@@ -11,10 +11,7 @@ For the latest news on **upcoming workshops**, visit our UiO homepage: [uio.no/c
 
 ## 2018
 
-### UPCOMING
-
-* June 7-8 [Software Carpentry Workshop](https://uio-carpentry.github.io/2018-06-07-Oslo/)
-* June 21-22 [Carpentries in-person Instructor Training](https://uio-carpentry.github.io/2018-06-21-Oslo-ttt/)
+* June 21-22 [Carpentries in-person Instructor Training](https://uio-carpentry.github.io/2018-06-21-Oslo-ttt/) (POSTPONED)
 
 ### February [Research Bazaar](http://www.ub.uio.no/english/courses-events/events/all-libraries/2018/resbaz-2018.html) workshops
 
@@ -25,15 +22,14 @@ For the latest news on **upcoming workshops**, visit our UiO homepage: [uio.no/c
 ### Two-day workshops
 
 * February [Tidy Programming in R for Reproducible Scientific Analysis](https://uio-carpentry.github.io/2018-02-15-R-tidyverse/)
+* June 7-8 [Software Carpentry Workshop](https://uio-carpentry.github.io/2018-06-07-Oslo/)
 
 ### One-day workshops
 
 * January [Unix Shell](https://uio-carpentry.github.io/2018-01-18-unix/)
 * April [Version Control with Git](https://uio-carpentry.github.io/2018-04-05-Git/)
-
-### Half-day workshops
-
 * April [Automation and Make](https://uio-carpentry.github.io/2018-04-19-make/)
+
 
 ## 2017
 
