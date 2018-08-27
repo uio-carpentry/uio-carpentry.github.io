@@ -29,7 +29,7 @@ For the latest news on **upcoming workshops**, visit our UiO homepage: [uio.no/c
 * January [Unix Shell](https://uio-carpentry.github.io/2018-01-18-unix/)
 * April [Version Control with Git](https://uio-carpentry.github.io/2018-04-05-Git/)
 * April [Automation and Make](https://uio-carpentry.github.io/2018-04-19-make/)
-
+* October [Databases and SQL](https://uio-carpentry.github.io/2018-10-17-sql/)
 
 ## 2017
 
