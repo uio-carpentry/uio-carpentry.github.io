@@ -6,12 +6,13 @@
 To facilitate sharing and re-using of data among researchers, Software Carpentry, Data Carpentry and Library Carpentry workshops are offered to PhDs and researchers from all Faculties at the University of Oslo ([UiO](uio.no)).
 
 We use this page for listing *previous Carpentry* workshops at the UiO.
+<!-- I put the upcoming workshops in the list, but out-commented them, so they won't be shown. If we the workshop has happened, take the comment brackets away and voilá! -->
 
 For the latest news on **upcoming workshops**, visit our UiO homepage: [uio.no/carpentry](http://uio.no/carpentry).
 
 ## 2018
 
-* June 21-22 [Carpentries in-person Instructor Training](https://uio-carpentry.github.io/2018-06-21-Oslo-ttt/) (POSTPONED)
+<!-- * June 21-22 [Carpentries in-person Instructor Training](https://uio-carpentry.github.io/2018-06-21-Oslo-ttt/) (POSTPONED) -->
 
 ### February [Research Bazaar](http://www.ub.uio.no/english/courses-events/events/all-libraries/2018/resbaz-2018.html) workshops
 
@@ -23,13 +24,17 @@ For the latest news on **upcoming workshops**, visit our UiO homepage: [uio.no/c
 
 * February [Tidy Programming in R for Reproducible Scientific Analysis](https://uio-carpentry.github.io/2018-02-15-R-tidyverse/)
 * June 7-8 [Software Carpentry Workshop](https://uio-carpentry.github.io/2018-06-07-Oslo/)
+<!-- * September [TidyVerse R](https://uio-carpentry.github.io/2018-09-25-R/) -->
 
 ### One-day workshops
 
 * January [Unix Shell](https://uio-carpentry.github.io/2018-01-18-unix/)
 * April [Version Control with Git](https://uio-carpentry.github.io/2018-04-05-Git/)
 * April [Automation and Make](https://uio-carpentry.github.io/2018-04-19-make/)
-* October [Databases and SQL](https://uio-carpentry.github.io/2018-10-17-sql/)
+* August [Unix Bash Shell Workshop](https://uio-carpentry.github.io/2018-08-15-unix/)
+<!-- * September [Version Control with Git](https://swcarpentry.github.io/git-novice/) -->
+<!-- * October [Unix Bash Shell](https://uio-carpentry.github.io/2018-10-31-Unix/) -->
+<!-- * October [Databases and SQL](https://uio-carpentry.github.io/2018-10-17-sql/) -->
 
 ## 2017
 
