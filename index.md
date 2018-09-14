@@ -32,6 +32,7 @@ For the latest news on **upcoming workshops**, visit our UiO homepage: [uio.no/c
 * April [Version Control with Git](https://uio-carpentry.github.io/2018-04-05-Git/)
 * April [Automation and Make](https://uio-carpentry.github.io/2018-04-19-make/)
 * August [Unix Bash Shell Workshop](https://uio-carpentry.github.io/2018-08-15-unix/)
+* August [Programming in Pythn Workshop](https://uio-carpentry.github.io/2018-08-29-python/)
 * September [Version Control with Git](https://swcarpentry.github.io/git-novice/)
 <!-- * October [Unix Bash Shell](https://uio-carpentry.github.io/2018-10-31-Unix/) -->
 <!-- * October [Databases and SQL](https://uio-carpentry.github.io/2018-10-17-sql/) -->
