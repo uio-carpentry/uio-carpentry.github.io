@@ -23,7 +23,7 @@ For the latest news on **upcoming workshops**, visit our UiO homepage: [uio.no/c
 ### Two-day workshops
 
 * February [Tidy Programming in R for Reproducible Scientific Analysis](https://uio-carpentry.github.io/2018-02-15-R-tidyverse/)
-* June 7-8 [Software Carpentry Workshop](https://uio-carpentry.github.io/2018-06-07-Oslo/)
+* June [Software Carpentry Workshop](https://uio-carpentry.github.io/2018-06-07-Oslo/)
 * September [TidyVerse R](https://uio-carpentry.github.io/2018-09-25-R/)
 
 ### One-day workshops
