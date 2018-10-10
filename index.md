@@ -24,7 +24,7 @@ For the latest news on **upcoming workshops**, visit our UiO homepage: [uio.no/c
 
 * February [Tidy Programming in R for Reproducible Scientific Analysis](https://uio-carpentry.github.io/2018-02-15-R-tidyverse/)
 * June 7-8 [Software Carpentry Workshop](https://uio-carpentry.github.io/2018-06-07-Oslo/)
-<!-- * September [TidyVerse R](https://uio-carpentry.github.io/2018-09-25-R/) -->
+* September [TidyVerse R](https://uio-carpentry.github.io/2018-09-25-R/)
 
 ### One-day workshops
 
@@ -34,8 +34,9 @@ For the latest news on **upcoming workshops**, visit our UiO homepage: [uio.no/c
 * August [Unix Bash Shell Workshop](https://uio-carpentry.github.io/2018-08-15-unix/)
 * August [Programming in Pythn Workshop](https://uio-carpentry.github.io/2018-08-29-python/)
 * September [Version Control with Git](https://swcarpentry.github.io/git-novice/)
-<!-- * October [Unix Bash Shell](https://uio-carpentry.github.io/2018-10-31-Unix/) -->
+* October [R for Reproducible Scientific Analysis](https://uio-carpentry.github.io/2018-10-10-R/)
 <!-- * October [Databases and SQL](https://uio-carpentry.github.io/2018-10-17-sql/) -->
+<!-- * October [Unix Bash Shell](https://uio-carpentry.github.io/2018-10-31-Unix/) -->
 
 ## 2017
 
