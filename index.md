@@ -38,6 +38,7 @@ For the latest news on **upcoming workshops**, visit our UiO homepage: [uio.no/c
 * October [Databases and SQL](https://uio-carpentry.github.io/2018-10-17-sql/)
 * October [Version Control with Git](https://uio-carpentry.github.io/2018-10-24-Git/)
 * October [Unix Bash Shell](https://uio-carpentry.github.io/2018-10-31-Unix/)
+<!-- * November 28 [Programming in Python](......) LOOKING FOR A LEAD INSTRUCTOR-->
 
 ## 2017
 
