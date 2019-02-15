@@ -10,6 +10,21 @@ We use this page for listing *previous Carpentry* workshops at the UiO.
 
 For the latest news on **upcoming workshops**, visit our UiO homepage: [uio.no/carpentry](http://uio.no/carpentry).
 
+## 2019
+
+### January [Research Bazaar](https://www.ub.uio.no/english/courses-events/events/all-libraries/2019/research-bazaar-2019.html) workshops
+
+* Two-day [Learn Deep-Learning with Python](https://www.ub.uio.no/english/courses-events/events/all-libraries/2019/research-bazaar/190109_DeepLearning.html)
+* One-day [Get (even) smarter with the Unix Shell](https://www.ub.uio.no/english/courses-events/events/all-libraries/2019/research-bazaar/190109_UnixShell.html)
+* Half-day [Publication Ready Scientific Reports with Jupyter Notebook](https://www.ub.uio.no/english/courses-events/events/all-libraries/2019/research-bazaar/190110_Jupyter.html)
+* Half-day [Getting Started with Open Science Framework](https://www.ub.uio.no/english/courses-events/events/all-libraries/2019/research-bazaar/190110_OpenScienceFramework.html)
+
+### One-day Workshops
+<!-- * March [Data Analysis and Visualization with R for Ecology](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/190308_R) -->
+<!-- * February [Git in Practice](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/190227_git) -->
+* February [Version Control with Git](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/190215_git)
+* February [Python](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/190208_python) 
+
 ## 2018
 
 <!-- * June 21-22 [Carpentries in-person Instructor Training](https://uio-carpentry.github.io/2018-06-21-Oslo-ttt/) (POSTPONED) -->
@@ -25,6 +40,7 @@ For the latest news on **upcoming workshops**, visit our UiO homepage: [uio.no/c
 * February [Tidy Programming in R for Reproducible Scientific Analysis](https://uio-carpentry.github.io/2018-02-15-R-tidyverse/)
 * June [Software Carpentry Workshop](https://uio-carpentry.github.io/2018-06-07-Oslo/)
 * September [TidyVerse R](https://uio-carpentry.github.io/2018-09-25-R/)
+* November [Python (and some RegEx) for Librarians](https://scriptotek.github.io/2018-11-19-python/)
 
 ### One-day workshops
 
@@ -38,7 +54,6 @@ For the latest news on **upcoming workshops**, visit our UiO homepage: [uio.no/c
 * October [Databases and SQL](https://uio-carpentry.github.io/2018-10-17-sql/)
 * October [Version Control with Git](https://uio-carpentry.github.io/2018-10-24-Git/)
 * October [Unix Bash Shell](https://uio-carpentry.github.io/2018-10-31-Unix/)
-<!-- * November 28 [Programming in Python](......) LOOKING FOR A LEAD INSTRUCTOR-->
 
 ## 2017
 
