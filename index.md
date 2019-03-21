@@ -2,6 +2,7 @@
 
 ![](img/uio-carpentry-logo.png)
 
+##Join us at [CarpentryConnect Manchester 2019 (CCMcr19)](https://software.ac.uk/ccmcr19)
 
 [The Carpentries](https://carpentries.org) is a volunteer organisation teaching foundational coding and data science skills to researchers worldwide.
 
@@ -26,6 +27,11 @@ For the latest news on **upcoming workshops**, visit our UiO homepage: [uio.no/c
 <!-- * February [Git in Practice](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/190227_git) -->
 * February [Version Control with Git](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/190215_git)
 * February [Python](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/190208_python) 
+<!-- * April [Collaborating and Publishing using GitHub](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/???????) -->
+<!-- * April [The UNIX Bash Shell (novices)](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/190424_UnixBash) -->
+<!--* May [Getting more out of the UNIX Shell](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/190503_UnixBashShell) -->
+<!-- * May [Introduction to R with Tidyverse (part 1)](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/???????) -->
+<!-- * May [Introduction to R with Tidyverse (part 2)](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/???????) -->
 
 ## 2018
 
