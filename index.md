@@ -23,15 +23,17 @@ For the latest news on **upcoming workshops**, visit our UiO homepage: [uio.no/c
 * Half-day [Getting Started with Open Science Framework](https://www.ub.uio.no/english/courses-events/events/all-libraries/2019/research-bazaar/190110_OpenScienceFramework.html)
 
 ### One-day Workshops
-<!-- * March [Data Analysis and Visualization with R for Ecology](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/190308_R) -->
-<!-- * February [Git in Practice](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/190227_git) -->
+
+* February [Git in Practice](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/190227_git)
 * February [Version Control with Git](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/190215_git)
 * February [Python](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/190208_python) 
-<!-- * April [Collaborating and Publishing using GitHub](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/???????) -->
-<!-- * April [The UNIX Bash Shell (novices)](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/190424_UnixBash) -->
-<!--* May [Getting more out of the UNIX Shell](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/190503_UnixBashShell) -->
-<!-- * May [Introduction to R with Tidyverse (part 1)](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/???????) -->
-<!-- * May [Introduction to R with Tidyverse (part 2)](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/???????) -->
+* March [Data Analysis and Visualization with R for Ecology](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/190308_R)
+* April [The UNIX Bash Shell (novices)](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/190424_UnixBash)
+* May [Getting more out of the UNIX Shell](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/190503_UnixBashShell)
+* May [Data Analysis and Visualization with R for Ecology](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/190515_R)
+* May [Introduction to R with Tidyverse (part 1)](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/190522-29_TidyR)
+* May [Introduction to R with Tidyverse (part 2)](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/190522-29_TidyR)
+* June [Getting your hands on climate data](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/190607_ClimateData)
 
 ## 2018
 
