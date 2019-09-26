@@ -1,4 +1,3 @@
-![](img/uio-carpentry-logo.png)
 
 We use this page for listing **previous Carpentry** workshops at the UiO. For the latest news on **upcoming workshops**, visit our UiO homepage: [uio.no/carpentry](http://uio.no/carpentry).
 <!-- I put the upcoming workshops in the list, but out-commented them, so they won't be shown. If we the workshop has happened, take the comment brackets away and voilá! -->
