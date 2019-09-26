@@ -2,10 +2,6 @@
 
 ![](img/uio-carpentry-logo.png)
 
-[The Carpentries](https://carpentries.org) is a volunteer organisation teaching foundational coding and data science skills to researchers worldwide.
-
-At the University of Oslo ([UiO](uio.no)) Software Carpentry, Data Carpentry, and Library Carpentry workshops are offered to graduates and researchers from all faculties and units to facilitate sharing and re-using of data.
-
 We use this page for listing *previous Carpentry* workshops at the UiO.
 <!-- I put the upcoming workshops in the list, but out-commented them, so they won't be shown. If we the workshop has happened, take the comment brackets away and voilá! -->
 
