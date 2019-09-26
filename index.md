@@ -1,5 +1,10 @@
+## Upcoming Carpentry Workshops
+For more information visit our UiO homepage: [uio.no/carpentry](http://uio.no/carpentry).
 
-We use this page for listing **previous Carpentry** workshops at the UiO. For the latest news on **upcoming workshops**, visit our UiO homepage: [uio.no/carpentry](http://uio.no/carpentry).
+<iframe src="https://calendar.google.com/calendar/embed?src=ds1hkds9k63or7ddro8m7210u4%40group.calendar.google.com&amp;ctz=Europe%2FOslo" style="border: 0" width="100%" height="400vh" frameborder="0" scrolling="no"></iframe>
+
+
+## Previous Carpentry workshops at the UiO. 
 <!-- I put the upcoming workshops in the list, but out-commented them, so they won't be shown. If we the workshop has happened, take the comment brackets away and voilá! -->
 
 ## 2019
