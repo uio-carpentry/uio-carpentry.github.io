@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 
 title: "Carpentry at the University of Oslo"
-description: <a href="https://carpentries.org">The Carpentries</a> is a volunteer organisation teaching foundational coding and data science skills to researchers worldwide. At the University of Oslo ([UiO](uio.no)) Software Carpentry, Data Carpentry, and Library Carpentry workshops are offered to graduates and researchers from all faculties and units to facilitate sharing and re-using of data.
+description: <a href="https://carpentries.org">The Carpentries</a> is a volunteer organisation teaching foundational coding and data science skills to researchers worldwide.</br> At the University of Oslo <a href="uio.no">UiO</a> Software Carpentry, Data Carpentry, and Library Carpentry workshops are offered to graduates and researchers from all faculties and units to facilitate sharing and re-using of data.
 logo: img/uio-carpentry-logo.png
