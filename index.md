@@ -2,8 +2,6 @@
 
 ![](img/uio-carpentry-logo.png)
 
-## Join us at [CarpentryConnect Manchester 2019 (CCMcr19)](https://software.ac.uk/ccmcr19)
-
 [The Carpentries](https://carpentries.org) is a volunteer organisation teaching foundational coding and data science skills to researchers worldwide.
 
 At the University of Oslo ([UiO](uio.no)) Software Carpentry, Data Carpentry, and Library Carpentry workshops are offered to graduates and researchers from all faculties and units to facilitate sharing and re-using of data.
