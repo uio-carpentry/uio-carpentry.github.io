@@ -6,10 +6,10 @@
 
 <p><iframe src="https://calendar.google.com/calendar/embed?src=ds1hkds9k63or7ddro8m7210u4%40group.calendar.google.com&amp;ctz=Europe%2FOslo&amp;showPrint=0&amp;showNav=1&amp;showTitle=0&amp;showCalendars=0&amp;showTz=0&amp;showTabs=1&amp;mode=AGENDA" style="border: 0" width="100%" height="400vh" frameborder="0" scrolling="no"></iframe>  </p>
 
-For more information about our workshops and to register for one of them visit [uio.no/carpentry](http://uio.no/carpentry). 
-To learn more about the study groups, go [here](https://uio-carpentry.github.io/studyGroup/).
+For more information about our workshops and to register visit [uio.no/carpentry](http://uio.no/carpentry). 
+To learn more about the study groups go [here](https://uio-carpentry.github.io/studyGroup/).
 
-# Past Carpentry Events at UiO
+# Past Events
 <!-- I put the upcoming workshops in the list, but out-commented them, so they won't be shown. If we the workshop has happened, take the comment brackets away and voilá! -->
 
 ## 2019
