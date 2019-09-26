@@ -1,9 +1,11 @@
-## Upcoming Workshops
+<!-- To see the refreshed site after changes, wait for a few seconds, then go to https://uio-carpentry.github.io/?version=[somerandomcharacters]. Change [somerandomcharacters] to something random. This will be much faster then waiting for the CDN to notice the changes. See https://stackoverflow.com/questions/24851824/how-long-does-it-take-for-github-page-to-show-changes-after-changing-index-html -->
+
+# Upcoming Workshops
 <iframe src="https://calendar.google.com/calendar/embed?src=ds1hkds9k63or7ddro8m7210u4%40group.calendar.google.com&amp;ctz=Europe%2FOslo" style="border: 0" width="100%" height="400vh" frameborder="0" scrolling="no"></iframe>
 
 For more information visit our UiO homepage: [uio.no/carpentry](http://uio.no/carpentry).
 
-## Previous Wrkshops
+# Previous Workshops
 <!-- I put the upcoming workshops in the list, but out-commented them, so they won't be shown. If we the workshop has happened, take the comment brackets away and voilá! -->
 
 ## 2019
