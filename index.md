@@ -23,16 +23,20 @@ To learn more about the study groups go [here](https://uio-carpentry.github.io/s
 
 ### One-day Workshops
 
-* February [Git in Practice](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/190227_git)
-* February [Version Control with Git](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/190215_git)
-* February [Python](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/190208_python) 
-* March [Data Analysis and Visualization with R for Ecology](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/190308_R)
-* April [The UNIX Bash Shell (novices)](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/190424_UnixBash)
-* May [Getting more out of the UNIX Shell](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/190503_UnixBashShell)
-* May [Data Analysis and Visualization with R for Ecology](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/190515_R)
-* May [Introduction to R with Tidyverse (part 1)](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/190522-29_TidyR)
-* May [Introduction to R with Tidyverse (part 2)](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/190522-29_TidyR)
-* June [Getting your hands on climate data](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/190607_ClimateData)
+* February [Git in Practice](https://uio-carpentry.github.io/2019-02-27-git/)
+* February [Version Control with Git](https://uio-carpentry.github.io/2019-02-15-Git/)
+* February [Python](https://uio-carpentry.github.io/2019-02-08-Python/) 
+* March [Data Analysis and Visualization with R for Ecology](https://uio-carpentry.github.io/2019-03-08-R/)
+* April [The UNIX Bash Shell (novices)](https://uio-carpentry.github.io/2019-04-24-Unix-novice/)
+* May [Getting more out of the UNIX Shell](https://uio-carpentry.github.io/2019-05-03-Unix-adv-beginner/)
+* May [Data Analysis and Visualization with R for Ecology](https://uio-carpentry.github.io/2019-05-15-R/)
+* May [Introduction to R with Tidyverse (part 1)](https://uio-carpentry.github.io/2019-05-22-R-tidyverse/)
+* May [Introduction to R with Tidyverse (part 2)](https://uio-carpentry.github.io/2019-05-22-R-tidyverse/)
+* June [Getting your hands on climate data](https://uio-carpentry.github.io/2019-06-07-geo/)
+* September [Writing and Coding Together on the Web Using GitHub](https://arockenberger.github.io/github_collab_workshop/)
+* September [Plotting and Programming in Python](https://uio-carpentry.github.io/2019-09-16_python/)
+<!-- * October [Databases and SQL](https://uio-carpentry.github.io/2019-10-28-sql/) -->
+<!-- * November [R for Reproducible Scientific Analysis](https://uio-carpentry.github.io/2019-11-19-R/) -->
 
 ## 2018
 
