@@ -36,7 +36,7 @@ To learn more about the study groups go [here](https://uio-carpentry.github.io/s
 * September [Writing and Coding Together on the Web Using GitHub](https://arockenberger.github.io/github_collab_workshop/)
 * September [Plotting and Programming in Python](https://uio-carpentry.github.io/2019-09-16_python/)
 * October [Databases and SQL](https://uio-carpentry.github.io/2019-10-28-sql/)
-<!-- * November [R for Reproducible Scientific Analysis](https://uio-carpentry.github.io/2019-11-19-R/) -->
+* November [R for Reproducible Scientific Analysis](https://uio-carpentry.github.io/2019-11-19-R/)
 
 ## 2018
 
