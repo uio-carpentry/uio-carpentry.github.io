@@ -10,7 +10,27 @@ For more information about our upcoming workshops and to register visit [the Uni
 To learn more about the study groups go [here](https://uio-carpentry.github.io/studyGroup/).
 
 # Past Events
-<!-- I put the upcoming workshops in the list, but out-commented them, so they won't be shown. If we the workshop has happened, take the comment brackets away and voilá! -->
+<!-- Put the upcoming workshops in the list and out-comment them so they won't be shown. If the workshop has happened, take the comment brackets away et voilá! -->
+
+## 2020
+
+### January [Research Bazaar](https://www.ub.uio.no/english/courses-events/events/all-libraries/2020/research-bazaar-2020.html) workshops
+
+### One-day workshops
+
+* January [Writing and Publishing Together on the Web Using GitHub](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200117_github)
+* January [Plotting and Programming with Python](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200124_python)
+* January [R for Reproducible Scientific Analysis](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200131_repro)
+<!-- * February [The Bash Shell](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200207_bash) -->
+<!-- * February [Python (intermediate)](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200214_Python-intermediate)-->
+<!-- * February [Version Control with Git](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200221_git)-->
+<!-- -->
+<!-- -->
+
+<!-- ### Data Carpentry workshops -->
+
+<!-- * March [Data Carpentry: Genomics](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/data-carpentry/time-and-place/200310_dcgen) -->
+<!-- * April [Data Carpentry: Social Sciences and Humanities](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/data-carpentry/time-and-place/200428_dcssh)-->
 
 ## 2019
 
