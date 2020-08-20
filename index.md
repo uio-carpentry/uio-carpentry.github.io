@@ -21,10 +21,10 @@ To learn more about the study groups go [here](https://uio-carpentry.github.io/s
 * January [Writing and Publishing Together on the Web Using GitHub](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200117_github)
 * January [Plotting and Programming with Python](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200124_python)
 * January [R for Reproducible Scientific Analysis](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200131_repro)
-February [The Bash Shell](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200207_bash)
-February [Python (intermediate)](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200214_Python-intermediate)
-February [Version Control with Git](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200221_git)
-May [Version Control with Git - Online](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200520_git_online)
+* February [The Bash Shell](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200207_bash)
+* February [Python (intermediate)](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200214_Python-intermediate)
+* February [Version Control with Git](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200221_git)
+* May [Version Control with Git - Online](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200520_git_online)
 <!-- -->
 <!-- -->
 
