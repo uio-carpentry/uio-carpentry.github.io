@@ -25,6 +25,7 @@ To learn more about the study groups go [here](https://uio-carpentry.github.io/s
 * February [Python (intermediate)](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200214_Python-intermediate)
 * February [Version Control with Git](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200221_git)
 * May [Version Control with Git - Online](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200520_git_online)
+* September [The Unix Shell](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200901_bash)
 <!-- -->
 <!-- -->
 
