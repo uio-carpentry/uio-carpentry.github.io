@@ -18,21 +18,28 @@ To learn more about the study groups go [here](https://uio-carpentry.github.io/s
 
 ### One-day workshops
 
-* January [Writing and Publishing Together on the Web Using GitHub](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200117_github)
-* January [Plotting and Programming with Python](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200124_python)
-* January [R for Reproducible Scientific Analysis](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200131_repro)
-* February [The Bash Shell](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200207_bash)
-* February [Python (intermediate)](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200214_Python-intermediate)
-* February [Version Control with Git](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200221_git)
-* May [Version Control with Git - Online](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200520_git_online)
-* September [The Unix Shell](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200901_bash)
-<!-- -->
-<!-- -->
+* January [Writing and Publishing Together on the Web Using GitHub](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200117_github) - on-site
+* January [Plotting and Programming with Python](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200124_python) - on-site
+* January [R for Reproducible Scientific Analysis](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200131_repro) - on site
+* February [The Bash Shell](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200207_bash) - on-site
+* February [Python (intermediate)](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200214_Python-intermediate) - on-site
+* February [Version Control with Git](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200221_git) - on-site
+* May [Version Control with Git - Online](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200520_git_online) - online
+* September [The Unix Shell](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200901_bash) - on-site
+* September [Version Control with Git](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/time-and-place/200929_git) - on-site
+* October [R for Reproducible Scientific Analysis](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/time-and-place/201007_rrepro) - on-site
+* November [Databases and SQL](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/time-and-place/201111_sql) - online
 
-<!-- ### Data Carpentry workshops -->
+### Two-day workshops
 
-<!-- * March [Data Carpentry: Genomics](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/data-carpentry/time-and-place/200310_dcgen) -->
-<!-- * April [Data Carpentry: Social Sciences and Humanities](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/data-carpentry/time-and-place/200428_dcssh)-->
+* October [Data Carpentry: Ecology](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/time-and-place/201014_nord_dceco) - joint venture with Nord University - online
+* October [Data Carpentry: Genomics](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/time-and-place/201021_nord_dcgen) - joint venture with Nord Universtiy - online
+
+### Carpentry Mini-Workshops
+
+* November [Carpentry mini workshop: Building Websites with Jekyll and GitHub/GitLab](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/time-and-place/201111_jekyll_wisconsin) - joint venture with University of Wisconsin-Madison - online
+* November [Carpentry mini workshop: Building Websites with Jekyll and GitHub/GitLab](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/time-and-place/201125_jekyll_wisconsin) - joint venture with University of Wisconsin-Madison - online
+<!-- -->
 
 ## 2019
 
