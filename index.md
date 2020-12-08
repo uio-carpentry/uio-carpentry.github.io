@@ -32,8 +32,8 @@ To learn more about the study groups go [here](https://uio-carpentry.github.io/s
 
 ### Two-day workshops
 
-* October [Data Carpentry: Ecology](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/time-and-place/201014_nord_dceco) - joint venture with Nord University - online
-* October [Data Carpentry: Genomics](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/time-and-place/201021_nord_dcgen) - joint venture with Nord Universtiy - online
+* October [Data Carpentry: Ecology](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/time-and-place/201014_nord_dceco) - organised by Nord University, open for UiO participants - online
+* October [Data Carpentry: Genomics](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/time-and-place/201021_nord_dcgen) - organised by Nord University, open for UiO participants - online
 
 ### Carpentry Mini-Workshops
 
