@@ -1,0 +1,30 @@
+baseURL = "https://uio-carpentry.github.io/"
+languageCode = "en-us"
+title = "Carpentry at the University of Oslo"
+
+[module]
+  [[module.imports]]
+    path = "github.com/alex-shpak/hugo-book"
+
+
+[params]
+  # (Optional, default none) Set the path to a logo for the book. If the logo is
+  # /static/logo.png then the path would be 'logo.png'
+  BookLogo = 'uio-carpentry-logo.png'
+
+  # (Optional, default light) Sets color theme: light, dark or auto.
+  # Theme 'auto' switches between dark and light modes based on browser/os preferences
+  BookTheme = 'auto'
+
+  # (Optional, default docs) Specify section of content to render as menu
+  # You can also set value to "*" to render all sections to menu
+  BookSection = 'pages'
+
+  # Set source repository location.
+  # Used for 'Last Modified' and 'Edit this page' links.
+  BookRepo = 'https://github.com/uio-carpentry/uio-carpentry.github.io'
+
+  # Enable 'Edit this page' links for 'doc' page type.
+  # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
+  # Path must point to the site directory.
+  BookEditPath = '/'
