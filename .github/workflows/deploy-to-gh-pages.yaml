@@ -24,6 +24,12 @@ jobs:
         hugo-version: 'latest'
         extended: true
 
+    - name: Setup Python
+      uses: "actions/setup-python@v2"
+
+    - name: Install rst2html
+      run: pip install rst2html
+
     - name: Build Site
       run: hugo --gc --minify --cleanDestinationDir
 
