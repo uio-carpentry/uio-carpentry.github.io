@@ -1,2 +1,14 @@
 github.com/alex-shpak/hugo-book v0.0.0-20201114204016-a486adf8462c h1:OFAiaybl3koDpKYWsGV4HkxEb9yezSrDZdcm9MdSFCQ=
 github.com/alex-shpak/hugo-book v0.0.0-20201114204016-a486adf8462c/go.mod h1:DvU1VD1ikK0ufuSgldRCwm4kVaEF0cQGdHUp16XjSVI=
+github.com/uio-carpentry/governance v0.0.0-20201126200056-f70703dd136f h1:e3NXH4E/eTyzvd9D9pkoW90G7jOjemWfHFcKfS4edV4=
+github.com/uio-carpentry/governance v0.0.0-20201126200056-f70703dd136f/go.mod h1:yiwq2VwPzmug6JZjXZz0OQgV4t4zazMzJsF5YzM/hlk=
+github.com/uio-carpentry/governance v0.0.0-20201218171120-82cb4ade0cfa h1:ZAVBJFdhMH/bf5xznb+6K4TB6THyZcUJ3OHMgM02AhI=
+github.com/uio-carpentry/governance v0.0.0-20201218171120-82cb4ade0cfa/go.mod h1:yiwq2VwPzmug6JZjXZz0OQgV4t4zazMzJsF5YzM/hlk=
+github.com/uio-carpentry/governance v0.0.0-20201218171447-6c887237ef3b h1:oQx40zxpBDH2x988TPpxy3G345MKv54pKaLy2uXG6H8=
+github.com/uio-carpentry/governance v0.0.0-20201218171447-6c887237ef3b/go.mod h1:yiwq2VwPzmug6JZjXZz0OQgV4t4zazMzJsF5YzM/hlk=
+github.com/uio-carpentry/organisational v0.0.0-20201218075044-36ffb997db92 h1:n5TYDsclfETjtMFk9TWZWFxtYKc3aAxq7FU+fm4fYoU=
+github.com/uio-carpentry/organisational v0.0.0-20201218075044-36ffb997db92/go.mod h1:6TwmbsLYkQyqM5C4mWHX+9mlMI6l5Ttb/qYFf6d34mI=
+github.com/uio-carpentry/organisational v0.0.0-20201218175109-6809905d0662 h1:GbUpL63TDhBbcR82qx6Kac7j5pQeIe+gJLHfQUzzltA=
+github.com/uio-carpentry/organisational v0.0.0-20201218175109-6809905d0662/go.mod h1:6TwmbsLYkQyqM5C4mWHX+9mlMI6l5Ttb/qYFf6d34mI=
+github.com/uio-carpentry/studyGroup v0.0.0-20200416124016-eebfbbee51b5 h1:N5SEBEBlhaHJ3RwCVTWRjX3cDxVUW3JGum8atf56lK0=
+github.com/uio-carpentry/studyGroup v0.0.0-20200416124016-eebfbbee51b5/go.mod h1:aMtVc25OUFjmAd0jICVntt6ip12FLox+c89fatrj3ic=

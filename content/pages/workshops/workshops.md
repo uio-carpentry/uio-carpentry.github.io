@@ -1,3 +1,7 @@
+---
+weight: 1
+---
+
 # Workshops
 ## Upcoming Events
 
