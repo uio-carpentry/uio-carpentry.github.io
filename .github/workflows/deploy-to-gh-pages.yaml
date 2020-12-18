@@ -1,0 +1,33 @@
+name: deploy to gihub pages
+
+on:
+  push:
+    branches:
+      - main
+      - master
+      - use_hugo  # development only
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+      with:
+          submodules: true
+          fetch-depth: 0
+          
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2.2.0
+      with:
+        hugo-version: 'latest'
+
+    - name: Build Site
+      run: hugo --gc --minify --cleanDestinationDir
+
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public
