@@ -3,8 +3,7 @@
 [The Carpentries](https://carpentries.org) is a volunteer organisation teaching foundational 
 coding and data science skills to researchers worldwide. It includes [Software Carpentry](https://software-carpentry.org), [Data Carpentry](https://datacarpentry.org), and [Library Carpentry](https://librarycarpentry.github.io/).
 
-[Carpentry@UiO](http://www.uio.no/english/for-employees/support/research/research-data/training/carpentry/) is part of the [University of Oslo (UiO)](https://www.uio.no) and offers Software Carpentry, Data Carpentry, and Library Carpentry workshops to graduates, researchers, and other staff from all faculties and units to facilitate sharing 
-and re-using of data.
+[Carpentry@UiO](http://www.uio.no/english/for-employees/support/research/research-data/training/carpentry/) is supported by the [University of Oslo (UiO)](https://www.uio.no) and the UiO library and offers Carpentry workshops to graduates, researchers, and other staff from all faculties and units to facilitate sharing and re-using of data.
 
 {{< columns >}} <!-- begin columns block -->
 ## Join a workshop

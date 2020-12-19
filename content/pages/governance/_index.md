@@ -1,8 +1,5 @@
 ---
 title: Governance
 bookCollapseSection: false
+bookFlatSection: true
 ---
-
-# Governance 
-
-Learn more about who we are and what we do.
