@@ -17,7 +17,3 @@ The StudyGroup is part of the Carpentry@UiO community of people who share a pass
 * **Watch this repo:** up in the top right, there's a button that says 'Watch'; click it, and set yourself to 'Watching'. This will send you email notifications of new discussions; if you don't want email, but would like an alert just on GitHub, change the setting in Settings -> Notification Center (Settings is the little cog in the top right).
 
 * **Join our Zotero Group Library:** we use a [Zotero group library](https://www.zotero.org/groups/2375861/uio-carpentry-study-group) that is public, but with closed membership for sharing interesting articles, blog posts, websites, books etc. If you are participating in the Book Club, all their material will be shared in the group library, too. In order to join the group library, send a PM to StudyGroup member @evezeyl.
-
-
-
-
