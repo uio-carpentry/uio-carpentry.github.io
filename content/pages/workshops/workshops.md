@@ -4,15 +4,21 @@ weight: 1
 
 # Workshops
 
-<!-- Put the upcoming workshops in the list and out-comment them so they won't be shown. 
-If the workshop has happened, take the comment brackets away et voilá! -->
+
 ## Upcoming
 
-{{< calendar >}}
+{{< event-feed "https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/time-and-place/?vrtx=feed" >}}
 
-For more information about our upcoming workshops and to register visit [the University of Oslo Library's Carpentry course catalogue](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/). To learn more about the study groups go [here](https://uio-carpentry.github.io/studyGroup/).
+*To learn more about our workshops or register for one of them go to [the University of Oslo Library's Carpentry course catalogue](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/). To learn more about the study group go [here](https://uio-carpentry.github.io/studyGroup/).*
 
-## Past
+--- 
+
+
+
+## Past Events
+
+<!-- Put the upcoming workshops in the list and out-comment them so they won't be shown. 
+If the workshop has happened, take the comment brackets away et voilá! -->
 
 ### 2020
 

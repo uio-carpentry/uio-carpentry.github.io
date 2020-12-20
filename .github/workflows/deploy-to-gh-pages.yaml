@@ -1,6 +1,10 @@
 name: deploy to gihub pages
 
 on:
+  schedule:
+    # cron format: minute hour day month weekday 
+    # 0 1 * * * = run every day at 1 am
+    - cron:  '0 1 * * *'
   push:
     branches:
       - main
