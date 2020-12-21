@@ -5,9 +5,8 @@ headless: true
 - [**Workshops**]({{< relref "/workshops" >}})
 
 
-- **Study Group**
-  - [Intro]({{< relref "/study_group" >}})
-  - [Activities]({{< relref "/posts" >}})
+- [**Study Group**]({{< relref "/study_group" >}})
+  - [Activities]({{< relref "/study_group/activities" >}})
 
 
 - **Governance**

@@ -1,3 +1,7 @@
+---
+bookToC: false
+---
+
 ![](uio-carpentry-logo.png)
 
 [The Carpentries](https://carpentries.org) is a volunteer organisation teaching foundational 
@@ -13,8 +17,3 @@ To join one of our courses visit our University of Oslo Library's
 
 ## Join the study group
 To join one of our study group, see ...
-
-
-
-
-

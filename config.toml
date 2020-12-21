@@ -20,7 +20,7 @@ ignoreFiles = ["README.md"]
 
     [[module.imports.mounts]]
         source = "_posts"
-        target = "content/posts"  
+        target = "content/study_group/activities"  
 
 [params]
   # (Optional, default none) Set the path to a logo for the book. If the logo is
@@ -52,4 +52,4 @@ ignoreFiles = ["README.md"]
 
   # (Optional, default none) Set leaf bundle to render as side menu
   # When not specified file structure and weights will be used
-  BookMenuBundle = '/menu'
+  BookMenuBundle = '/_menu'
