@@ -93,7 +93,7 @@ confidential:
 If the workshop is a local workshop rather than an official Carpentries
 workshop, the workshop website will have the Carpentry@UiO logo:
 
-![image](img/uio-carpentry-logo-circle.png){width="40px"}
+![Carpentry@UiO logo](/uio-carpentry-logo-circle.png)
 
 ## Contributing
 

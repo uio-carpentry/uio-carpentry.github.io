@@ -1,4 +1,4 @@
-![](img/uio-carpentry-logo.png)
+![](uio-carpentry-logo.png)
 
 [The Carpentries](https://carpentries.org) is a volunteer organisation teaching foundational 
 coding and data science skills to researchers worldwide. It includes [Software Carpentry](https://software-carpentry.org), [Data Carpentry](https://datacarpentry.org), and [Library Carpentry](https://librarycarpentry.github.io/).
