@@ -1,2 +1,4 @@
 /public
 /resources
+go.mod
+go.sum
