@@ -1,5 +1,5 @@
 ---
-title: Resports
+title: Reports
 bookCollapseSection: true
 weight: 10
 type: posts
