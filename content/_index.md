@@ -12,8 +12,8 @@ For more information, read our [Charter](https://governance.readthedocs.io/en/la
 and our [Mission Statement](https://governance.readthedocs.io/en/latest/intro.html). 
 
 ## Join a workshop
-To join one of our courses visit our University of Oslo Library's 
+To join one of our courses visit the University of Oslo Library's 
 [Carpentry course catalogue](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/).
 
 ## Join the study group
-To join one of our study group, see ...
+To join our study group, go [here]({{< relref "/study_group" >}}).

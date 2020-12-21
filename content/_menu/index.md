@@ -7,6 +7,8 @@ headless: true
 
 - [**Study Group**]({{< relref "/study_group" >}})
   - [Activities]({{< relref "/study_group/activities" >}})
+  - [Book Club]({{< relref "/study_group/book_club" >}})
+  - [Code of Conduct]({{< relref "/study_group/code_of_conduct" >}})
 
 
 - **Governance**
@@ -15,4 +17,4 @@ headless: true
   - [Reports]({{< relref "/reports" >}})
 
 - **More** 
-  - [Carpentry@UiO Github](https://github.com/uio-carpentry/)
+  - [Our Github](https://github.com/uio-carpentry/)

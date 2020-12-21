@@ -26,7 +26,7 @@ including staff, faculty, and students, paid, and volunteer. We believe
 the Carpentries' teaching methods are efficient and can speed up take-up
 toward the adoption of Open Science at UiO.
 
-Check out the [Carpentry@UiO Charter](charter.rst).
+{{< button relref="/governance/charter" >}}Check out the Carpentry@UiO Charter{{< /button >}}
 
 ## Who are we?
 
@@ -93,7 +93,7 @@ confidential:
 If the workshop is a local workshop rather than an official Carpentries
 workshop, the workshop website will have the Carpentry@UiO logo:
 
-![Carpentry@UiO logo](/uio-carpentry-logo-circle.png)
+![Carpentry@UiO logo](uio-carpentry-logo-small.png)
 
 ## Contributing
 
