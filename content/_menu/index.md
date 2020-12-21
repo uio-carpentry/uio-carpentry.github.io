@@ -17,4 +17,5 @@ headless: true
   - [Reports]({{< relref "/reports" >}})
 
 - **More** 
+  - [Other Initiatives]({{< relref "/more/initiatives" >}})
   - [Our Github](https://github.com/uio-carpentry/)
