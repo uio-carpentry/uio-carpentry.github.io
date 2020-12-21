@@ -41,3 +41,11 @@ If you are interested in participating in one of our workshops, please see [this
 
 Issues and pull requests are welcome!
 If you have questions, please contact the maintainers, e.g., file an issue and tag @Teebusch
+
+## License
+
+author: Carpentry@UiO members
+copyright: 2020, Carpentry@UiO members'
+
+Governance docs: [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
