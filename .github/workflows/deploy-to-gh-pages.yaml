@@ -36,12 +36,12 @@ jobs:
 
     # for production, use uio-carpentry.github.io as baseURL
     - name: Build Site Production
-      if: ${{ $GITHUB_REPOSITORY == uio-carpentry/uio-carpentry.github.io }}
+      if: $github.repository == uio-carpentry/uio-carpentry.github.io
       run: hugo --gc --minify --cleanDestinationDir --baseURL=https:uio-carpentry.github.io/
 
     # for forks, use baseURL from config.toml
     - name: Build Site Development
-      if: ${{ $GITHUB_REPOSITORY != uio-carpentry/uio-carpentry.github.io }}
+      if: $github.repository != uio-carpentry/uio-carpentry.github.io
       run: hugo --gc --minify --cleanDestinationDir
 
     - name: Deploy
