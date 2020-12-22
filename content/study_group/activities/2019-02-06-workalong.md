@@ -1,4 +1,11 @@
-# Workalong Git without Bash
+---
+title: Workalong Git without Bash
+text:
+location: National Library of Norway, Henrik Ibsens gate 110, 0254 Oslo, Room "Slottsbibliotek"
+date: 2019-02-06
+startTime: '14:00'
+endTime: '16:00'
+---
 
 **Session leader:** Annika Rockenberger
 

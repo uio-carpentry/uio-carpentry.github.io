@@ -13,14 +13,7 @@ ignoreFiles = ["README.md"]
 
     [[module.imports.mounts]]
         source = "reporting"
-        target = "content/reports"  
-
-  [[module.imports]]
-    path = "github.com/uio-carpentry/studyGroup"
-
-    [[module.imports.mounts]]
-        source = "_posts"
-        target = "content/study_group/activities"  
+        target = "content/about/reports"  
 
 [params]
   # (Optional, default none) Set the path to a logo for the book. If the logo is

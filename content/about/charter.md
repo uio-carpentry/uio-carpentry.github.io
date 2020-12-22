@@ -81,5 +81,6 @@ writing in advance of any board meeting.
 
 Amendments require a 2/3 majority vote to be accepted.
 
-This text is based on [the University of Florida Carpentries Club
-Charter](https://www.uf-carpentries.org/charter/).
+--- 
+*This text is based on [the University of Florida Carpentries Club
+Charter](https://www.uf-carpentries.org/charter/).*

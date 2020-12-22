@@ -5,7 +5,6 @@ location: Niels Henrik Abels hus, Room 108, University of Oslo
 date: 2019-03-01
 startTime: '14:00'
 endTime: '16:00'
-
 ---
 
 **Session leader**: Annika Rockenberger

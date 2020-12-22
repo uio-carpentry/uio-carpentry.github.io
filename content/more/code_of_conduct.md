@@ -1,5 +1,28 @@
 # Code of Conduct
 
+We follow the [Carpentries' Code of
+Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
+to provide an inclusive and supportive environment for our learners and
+our members. Any violation of our Code of Conduct should be reported, it
+will then be handled as quickly as possible and will remain
+confidential:
+
+- to report Code of Conduct violations for official Carpentries
+    workshops, see the Carpentries [Code of Conduct Incident Reporting
+    Guidelines](https://docs.carpentries.org/topic_folders/policies/incident-reporting.html)
+- to report Code of Conduct violations for local Carpentry@UiO
+    workshops, use UiO's
+    [speak-up](https://www.uio.no/english/about/hse/speak-up/index.html)
+    (English) or [si-fra](https://www.uio.no/om/hms/si-fra/) (Norwegian)
+    reporting
+
+If the workshop is a local workshop rather than an official Carpentries
+workshop, the workshop website will have the Carpentry@UiO logo:
+
+![Carpentry@UiO logo](uio-carpentry-logo-small.png}})
+
+## Study Group Code of Conduct
+
 Study Group events are community events intended for networking and collaboration as well as learning. We value the participation of every member of the scientific community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the event and in interactions online associated with Study Group.
 
 To make clear what is expected, everyone taking part in Study Group events and discussions—instructors, helpers, organizers, and learners—is required to conform to the following Code of Conduct. Organizers will enforce this code throughout events, but you may also contact us privately; all communication will be treated as confidential.

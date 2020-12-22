@@ -4,8 +4,8 @@ weight: 1
 
 # Workshops
 
-We organize workshops multiple times a year. The best place to learn more about our workshops or register for one of them is [the University of Oslo Library's Carpentry course catalogue](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/). Inbetween workshops we meet for study groups. To learn more about the study group go [here]({{< relref "/study_group" >}}).
-
+We organize workshops multiple times a year. The best place to learn more about our workshops or register for one of them is [the University of Oslo Library's Carpentry course catalogue](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/) or [sign up UiO@Carpentry mailing list](https://sympa.uio.no/swcarpentry.uio.no/subscribe/announcements). 
+Inbetween workshops we meet for study groups. To learn more about the study group go [here]({{< relref "/study_group" >}}).
 
 ## Upcoming Workshops
 
