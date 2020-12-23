@@ -1,19 +1,30 @@
 # Who are we?
 
-## Carpentry@UiO board
+## Board
 
-| Board Member                    | Affiliation                                                                           | Role         |
-| :------------------------------ | :------------------------------------------------------------------------------------ | :----------- |
-| Lex&nbsp;Nederbragt             | UiO, Department of BioSciences (IBV) and Department of Informatics (IFI)              | chair        |
-| Viviane&nbsp;Girardin           | Norwegian Institute for Water Research, Section for Environmental Data Science (NIVA) | vice-chair   |
-| Tobias&nbsp;Busch               | UiO, Department of Special Needs Education (ISP)                                      | secretary    |
-| Anne&nbsp;Schad&nbsp;Bergsaker  | UiO, University Center for Information Technology (USIT)                              |              |
-| Annika&nbsp;Rockenberger        | UiO, Humanities and Social Sciences Library (UB)                                      | *            |
-| Naoe&nbsp;Tatara                | UiO, Library, Science Library (UB)                                                    | *            |
+Lex Nederbragt  
+: UiO, Department of BioSciences (IBV) and Department of Informatics (IFI)  
+  _chair_
 
-_\* appointed by University of Oslo library_
+Viviane Girardin  
+: Norwegian Institute for Water Research, Section for Environmental Data Science (NIVA)  
+  _vice-chair_
 
+Tobias Busch  
+: UiO, Department of Special Needs Education (ISP)  
+  _secretary_
 
-## Carpentry@UiO instructors
+Anne Schad Bergsaker  
+: UiO, University Center for Information Technology (USIT)  
+
+Annika Rockenberger  
+: UiO, Humanities and Social Sciences Library (UB)  
+  _appointed by University of Oslo library_
+
+Naoe Tatara
+: UiO, Library, Science Library (UB)  
+  _appointed by University of Oslo library_
+
+## Instructors
 
 We have many active instructors. Would you like to become an instructor, too? Join our mailing list or meet us at a study group...

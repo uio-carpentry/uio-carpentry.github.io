@@ -19,7 +19,7 @@ confidential:
 If the workshop is a local workshop rather than an official Carpentries
 workshop, the workshop website will have the Carpentry@UiO logo:
 
-![Carpentry@UiO logo](uio-carpentry-logo-small.png}})
+![Carpentry@UiO logo](uio-carpentry-logo-small.png)
 
 ## Study Group Code of Conduct
 

@@ -17,7 +17,7 @@ If you are interested in participating in one of our workshops, please see [this
 * To make changes locally, fork/clone the repository (see below). GitHub Desktop is great if you are unfamiliar with Git's command line interface. 
 * If the changes are big, it is good practice to create a pull request and ask for a review instead of committing directly to `master`. 
 * There is a Github action running that will rerender the site whenever a new commit is made on the master branch (and once per day, to keep the workshop list up to date). 
-* The published site is at https://uio-carpentry.github.io. Usually the rebuild is fast (about a minute or two). If it takes very long, have a look at the Github Actions panel, to see if the build has failed.
+* The published site is at https://uio-carpentry.github.io. Usually the rebuild is fast (less than a minute). If it takes very long, have a look at the Github Actions panel, to see if the build has failed.
 
 ### Content Structure - Where to find what?
 

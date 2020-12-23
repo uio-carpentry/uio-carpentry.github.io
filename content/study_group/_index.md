@@ -8,6 +8,12 @@ weight: 2
 
 The Study Group is part of the [Carpentry@UiO](https://uio-carpentry.github.io/) community of people who share a passion and enthusiasm for teaching researchers, students, and everyone else the fundamentals of coding, data management, and digital literacy. Our StudyGroup members have a diverse background, with disciplines such as bioinformatics, psychology, computer science, engineering, humanities, geology, and social sciences. We are also an international group - our working language is English, and everyone is welcome to join!
 
+## Suggest an Activity
+
+Hackalongs, Tutorials, Discussions, Bookclubs, Codealongs, ....
+
+{{< button href="https://github.com/uio-carpentry/studyGroup/issues/" >}}Suggest an Activity{{< /button >}}
+
 ## New to the Study Group?
 
 <!-- 
