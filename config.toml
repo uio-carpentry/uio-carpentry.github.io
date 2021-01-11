@@ -39,7 +39,7 @@ ignoreFiles = ["README.md"]
   # Enable 'Edit this page' links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
   # Path must point to the site directory.
-  BookEditPath = '/'
+  # BookEditPath = '/'
 
   # (Optional, default true) Enables comments template on pages
   # By default partials/docs/comments.html includes Disqus template

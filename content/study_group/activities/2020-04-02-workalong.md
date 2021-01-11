@@ -6,7 +6,11 @@ link: https://github.com/uio-carpentry/studyGroup/issues/70
 date: 2020-04-16
 startTime: '16:00'
 endTime: '18:00'
-
+categories:
+- Workalong
+tags: 
+- Webdesign
+- Jekyll
 ---
 
 **Session leader**: Naoe Tatara

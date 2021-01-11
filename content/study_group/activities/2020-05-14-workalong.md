@@ -6,7 +6,10 @@ link: https://github.com/uio-carpentry/studyGroup/issues/69
 date: 2020-05-14
 startTime: '16:00'
 endTime: '18:00'
-
+categories:
+- Workalong
+tags:
+- Zotero
 ---
 
 ### Workalong: Zotero Add-Ons, Extensions, and Plugins

@@ -27,4 +27,4 @@ Naoe Tatara
 
 ## Instructors
 
-We have many active instructors. Would you like to become an instructor, too? Join our mailing list or meet us at a study group...
+We have many active instructors. Would you like to become an instructor, too? Join our mailing list or meet us at a study group.
