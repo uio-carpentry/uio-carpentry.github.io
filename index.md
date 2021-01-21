@@ -1,26 +1,22 @@
----
-weight: 1
----
+<!-- To see the refreshed site after changes, wait for a few seconds, then go to https://uio-carpentry.github.io/?version=[somerandomcharacters]. Change [somerandomcharacters] to something random. This will be much faster then waiting for the CDN to notice the changes. See https://stackoverflow.com/questions/24851824/how-long-does-it-take-for-github-page-to-show-changes-after-changing-index-html -->
 
-# Workshops
+![](img/uio-carpentry-logo.png)
 
-We organize workshops multiple times a year. The best place to learn more about our workshops or register for one of them is [the University of Oslo Library's Carpentry course catalogue](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/) or [sign up UiO@Carpentry mailing list](https://sympa.uio.no/swcarpentry.uio.no/subscribe/announcements). 
-Inbetween workshops we meet for study groups. To learn more about the study group go [here]({{< relref "/study_group" >}}).
+# Upcoming Events
 
-## Upcoming Workshops
+<p><iframe src="https://calendar.google.com/calendar/embed?src=ds1hkds9k63or7ddro8m7210u4%40group.calendar.google.com&amp;ctz=Europe%2FOslo&amp;showPrint=0&amp;showNav=1&amp;showTitle=0&amp;showCalendars=0&amp;showTz=0&amp;showTabs=1&amp;mode=AGENDA" style="border: 0" width="100%" height="400vh" frameborder="0" scrolling="no"></iframe>  </p>
 
-{{< event-feed "https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/time-and-place/?vrtx=feed" >}}
+For more information about our upcoming workshops and to register visit [the University of Oslo Library's Carpentry course catalogue](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/). 
+To learn more about the study groups go [here](https://uio-carpentry.github.io/studyGroup/).
 
+# Past Events
+<!-- Put the upcoming workshops in the list and out-comment them so they won't be shown. If the workshop has happened, take the comment brackets away et voilá! -->
 
-## Past Workshops
-<!-- Put the upcoming workshops in the list and out-comment them so they won't be shown. 
-If the workshop has happened, take the comment brackets away et voilá! -->
+## 2020
 
-### 2020
+### January [Research Bazaar](https://www.ub.uio.no/english/courses-events/events/all-libraries/2020/research-bazaar-2020.html) workshops
 
-#### [Research Bazaar](https://www.ub.uio.no/english/courses-events/events/all-libraries/2020/research-bazaar-2020.html) workshops (January)
-
-#### One-day workshops
+### One-day workshops
 
 * January [Writing and Publishing Together on the Web Using GitHub](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200117_github) - on-site
 * January [Plotting and Programming with Python](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200124_python) - on-site
@@ -34,27 +30,27 @@ If the workshop has happened, take the comment brackets away et voilá! -->
 * October [R for Reproducible Scientific Analysis](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/time-and-place/201007_rrepro) - on-site
 * November [Databases and SQL](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/time-and-place/201111_sql) - online
 
-#### Two-day workshops
+### Two-day workshops
 
 * October [Data Carpentry: Ecology](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/time-and-place/201014_nord_dceco) - organised by Nord University, open for UiO participants - online
 * October [Data Carpentry: Genomics](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/time-and-place/201021_nord_dcgen) - organised by Nord University, open for UiO participants - online
 
-#### Carpentry Mini-Workshops
+### Carpentry Mini-Workshops
 
 * November [Carpentry mini workshop: Building Websites with Jekyll and GitHub/GitLab](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/time-and-place/201111_jekyll_wisconsin) - joint venture with University of Wisconsin-Madison - online
 * November [Carpentry mini workshop: Building Websites with Jekyll and GitHub/GitLab](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/time-and-place/201125_jekyll_wisconsin) - joint venture with University of Wisconsin-Madison - online
 <!-- -->
 
-### 2019
+## 2019
 
-#### [Research Bazaar](https://www.ub.uio.no/english/courses-events/events/all-libraries/2019/research-bazaar-2019.html) workshops (January)
+### January [Research Bazaar](https://www.ub.uio.no/english/courses-events/events/all-libraries/2019/research-bazaar-2019.html) workshops
 
 * Two-day [Learn Deep-Learning with Python](https://www.ub.uio.no/english/courses-events/events/all-libraries/2019/research-bazaar/190109_DeepLearning.html)
 * One-day [Get (even) smarter with the Unix Shell](https://www.ub.uio.no/english/courses-events/events/all-libraries/2019/research-bazaar/190109_UnixShell.html)
 * Half-day [Publication Ready Scientific Reports with Jupyter Notebook](https://www.ub.uio.no/english/courses-events/events/all-libraries/2019/research-bazaar/190110_Jupyter.html)
 * Half-day [Getting Started with Open Science Framework](https://www.ub.uio.no/english/courses-events/events/all-libraries/2019/research-bazaar/190110_OpenScienceFramework.html)
 
-#### One-day Workshops
+### One-day Workshops
 
 * February [Git in Practice](https://uio-carpentry.github.io/2019-02-27-git/)
 * February [Version Control with Git](https://uio-carpentry.github.io/2019-02-15-Git/)
@@ -71,24 +67,24 @@ If the workshop has happened, take the comment brackets away et voilá! -->
 * October [Databases and SQL](https://uio-carpentry.github.io/2019-10-28-sql/)
 * November [R for Reproducible Scientific Analysis](https://uio-carpentry.github.io/2019-11-19-R/)
 
-### 2018
+## 2018
 
 <!-- * June 21-22 [Carpentries in-person Instructor Training](https://uio-carpentry.github.io/2018-06-21-Oslo-ttt/) (POSTPONED) -->
 
-#### [Research Bazaar](http://www.ub.uio.no/english/courses-events/events/all-libraries/2018/resbaz-2018.html) workshops (February)
+### February [Research Bazaar](http://www.ub.uio.no/english/courses-events/events/all-libraries/2018/resbaz-2018.html) workshops
 
 * Two-day pre-Research Bazaar [Software Carpentry workshop](https://uio-carpentry.github.io/2018-02-05-Oslo/)
 * One-day [Making your software robust](https://uio-carpentry.github.io/2018-02-09-robust-sw/)
 * One-day [Reproducible Research with Interactive Jupyter Dashboards](https://uio-carpentry.github.io/2018-02-08-dashboards/)
 
-#### Two-day workshops
+### Two-day workshops
 
 * February [Tidy Programming in R for Reproducible Scientific Analysis](https://uio-carpentry.github.io/2018-02-15-R-tidyverse/)
 * June [Software Carpentry Workshop](https://uio-carpentry.github.io/2018-06-07-Oslo/)
 * September [TidyVerse R](https://uio-carpentry.github.io/2018-09-25-R/)
 * November [Python (and some RegEx) for Librarians](https://scriptotek.github.io/2018-11-19-python/)
 
-#### One-day workshops
+### One-day workshops
 
 * January [Unix Shell](https://uio-carpentry.github.io/2018-01-18-unix/)
 * April [Version Control with Git](https://uio-carpentry.github.io/2018-04-05-Git/)
@@ -101,9 +97,9 @@ If the workshop has happened, take the comment brackets away et voilá! -->
 * October [Version Control with Git](https://uio-carpentry.github.io/2018-10-24-Git/)
 * October [Unix Bash Shell](https://uio-carpentry.github.io/2018-10-31-Unix/)
 
-### 2017
+## 2017
 
-#### [Research Bazaar](http://www.ub.uio.no/english/courses-events/events/ureal/2017/170201ResBaz.html) workshops (February)
+### February [Research Bazaar](http://www.ub.uio.no/english/courses-events/events/ureal/2017/170201ResBaz.html) workshops
 
 * Miniseminar ["Digital tools for managing and sharing research data"](http://www.ub.uio.no/english/courses-events/events/ureal/2017/170202_presentations)
 * Two-day [Software Carpentry workshop](https://uio-carpentry.github.io/2017-02-01-swc/)
@@ -117,11 +113,11 @@ If the workshop has happened, take the comment brackets away et voilá! -->
 * Half-day [Big Data - pyspark workshop](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/170203_bigdata)
 * Half-day [LaTeX workshop](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/170203_latex)
 
-#### Two-day workshops
+### Two-day workshops
 
 * June [Tidy Programming in R for Reproducible Scientific Analysis workshop](https://uio-carpentry.github.io/2017-06-06_R_tidyverse/)
 
-#### One-day workshops
+### One-day workshops
 * January [R for Reproducible Scientific Analysis](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/161801_R)
 * March [Unix Shell workshop](https://uio-carpentry.github.io/2017-03-15-unix/)
 * March [Python workshop](https://uio-carpentry.github.io/2017-03-29-python/)
@@ -138,9 +134,9 @@ If the workshop has happened, take the comment brackets away et voilá! -->
 
 In addition we organized two Data Therapy sessions in November and December.
 
-### 2016
+## 2016
 
-#### 'Carpentry week' workshops (March)
+### March 'Carpentry week' workshops
 * Miniseminar ["Open Data Skills"](https://www.ub.uio.no/english/courses-events/events/ureal/2016/160314dataskills.html)
 * Two-day [Software Carpentry workshop](https://uio-carpentry.github.io/2016-03-15-Oslo-SWC/)
 * Two-day [Data Carpentry Genomics workshop](http://uio-carpentry.github.io/2016-03-15-Oslo-data-bio/) with Tracy Teal (Executive Director Data Carpentry)
@@ -148,11 +144,11 @@ In addition we organized two Data Therapy sessions in November and December.
 * Experimental one-day [Data Carpentry/Reproducibility workshop](https://2016-oslo-repeatability.readthedocs.io/en/latest/) with Titus Brown, associate professor at [UC Davis](http://ivory.idyll.org/lab/)
 * [Biblioteksløyd beta](https://scriptotek.github.io/2016-03-17-BS/), a Library Carpentry-inspired workshop
 
-#### Two-day workshops
+### Two-day workshops
 * February [Software Carpentry workshop](http://uio-carpentry.github.io/2016-02-01-Oslo/)
 * June [Software Carpentry workshop](https://uio-carpentry.github.io/2016-06-20-Oslo-SWC/)
 
-#### One-day workshops
+### One-day workshops
 * May [R workshop](http://uio-carpentry.github.io/2016-05-10-R/)
 * August [Unix Shell workshop](https://uio-carpentry.github.io/2016-08-23-unix/)
 * August [Programming in Python workshop](https://uio-carpentry.github.io/2016-08-31-python/)
@@ -162,25 +158,25 @@ In addition we organized two Data Therapy sessions in November and December.
 * November [Automation and Make workshop](https://uio-carpentry.github.io/2016-11-09-make/)
 * December [Open Research data workshop](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/161205_RDM)
 
-#### Other workshops
+### Other workshops
 * UiO also hosted an [Instructor Training workshop](http://uio-carpentry.github.io/2016-06-30-Oslo-ttt/) in June
 
-### 2015
+## 2015
 
-#### Two-day workshops
+### Two-day workshops
 
 * February [Software Carpentry workshop](https://karinlag.github.io/2015-02-26-Oslo/)
 * June [Software Carpentry workshop](https://lexnederbragt.github.io/2015-06-02-Oslo/)
 * December [Software Carpentry workshop](https://huguesfontenelle.github.io/2015-12-02-Oslo/)
 
-### 2013
+## 2013
 
-#### Two-day workshops
+### Two-day workshops
 
 * July [Software Carpentry workshop](https://swcarpentry.github.io/2013-07-03-oslo/)
 
 
-### 2012
+## 2012
 
-#### Two-day workshops
+### Two-day workshops
 * September [Software Carpentry workshop](https://swcarpentry.github.io/2012-09-17-oslo/)
