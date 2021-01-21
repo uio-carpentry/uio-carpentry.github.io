@@ -1,0 +1,10 @@
+github.com/alex-shpak/hugo-book v0.0.0-20201114204016-a486adf8462c h1:OFAiaybl3koDpKYWsGV4HkxEb9yezSrDZdcm9MdSFCQ=
+github.com/alex-shpak/hugo-book v0.0.0-20201114204016-a486adf8462c/go.mod h1:DvU1VD1ikK0ufuSgldRCwm4kVaEF0cQGdHUp16XjSVI=
+github.com/alex-shpak/hugo-book v0.0.0-20201223105150-e53a638b2c81 h1:+Xf3pgGs9B8nUMMQy80k2a1PKgEEBQ9fdcfxkJw5rQc=
+github.com/alex-shpak/hugo-book v0.0.0-20201223105150-e53a638b2c81/go.mod h1:DvU1VD1ikK0ufuSgldRCwm4kVaEF0cQGdHUp16XjSVI=
+github.com/uio-carpentry/organisational v0.0.0-20201218175109-6809905d0662/go.mod h1:6TwmbsLYkQyqM5C4mWHX+9mlMI6l5Ttb/qYFf6d34mI=
+github.com/uio-carpentry/organisational v0.0.0-20201221180334-531ca3ca8b34 h1:D/6QvXcH+hf6Swnk3OASZODLXM7vp1deL71zU2E5rZM=
+github.com/uio-carpentry/organisational v0.0.0-20201221180334-531ca3ca8b34/go.mod h1:6TwmbsLYkQyqM5C4mWHX+9mlMI6l5Ttb/qYFf6d34mI=
+github.com/uio-carpentry/studyGroup v0.0.0-20200416124016-eebfbbee51b5/go.mod h1:aMtVc25OUFjmAd0jICVntt6ip12FLox+c89fatrj3ic=
+github.com/uio-carpentry/studyGroup v0.0.0-20201220195221-15e66c8565f1 h1:BgM8DnqEzeIx2FoOkluvZ6NJdJ3TylcM1nCCDKPQTBM=
+github.com/uio-carpentry/studyGroup v0.0.0-20201220195221-15e66c8565f1/go.mod h1:aMtVc25OUFjmAd0jICVntt6ip12FLox+c89fatrj3ic=

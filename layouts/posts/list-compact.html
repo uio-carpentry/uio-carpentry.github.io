@@ -1,0 +1,22 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  <div style = "margin-block-end: 3em;">
+    {{- .Content -}}
+  </div>
+
+  {{ range sort .Paginator.Pages }}
+  <article class="markdown book-post">
+      {{ partial "docs/post-meta" . }}
+      <h3 style="margin-top: 0em;">
+        {{ $title_fallback := .File.BaseFileName | humanize | title }}
+        <a href="{{ .RelPermalink }}" >{{ .Title  | default $title_fallback }}  </a>
+      </h3>
+    </article>
+  {{ end }}
+
+  {{ template "_internal/pagination.html" . }}
+{{ end }}
+
+{{ define "toc" }}
+  {{ partial "docs/taxonomy" . }}
+{{ end }}

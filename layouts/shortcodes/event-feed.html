@@ -1,0 +1,35 @@
+{{ $feedurl := (.Get 0) }}
+{{ $jsonurl := (printf "https://api.factmaven.com/xml-to-json/?xml=%s" $feedurl) }}
+<!-- Converts xml to json. Alternative API: "https://api.rss2json.com/v1/api.json?rss_url=%s" -->
+
+{{ $res := getJSON $jsonurl }}
+
+{{ with $res.feed.entry }}
+    {{ $entries := . }}
+    <!-- this is a hacky way to check if it is an array with entries, or a single entry
+    It's necassary because the xml to json converter is a little inconsistent. -->
+    {{ if not ( isset $entries -1 ) }}
+        {{ $entries = ( slice $entries ) }}
+    {{ end }}
+
+    <div class="event-feed">
+    {{ range $entries }}
+        {{ $start := index . "v:event-start" | time }}
+        {{ $end   := index . "v:event-end" | time }}
+        {{ $link  := index .link "@href" }}
+
+        <h3><a href="{{ $link }}">{{  index .title "#text" }}</a></h3>
+        <p>
+            {{ $start.Format "2 January 2006" }}, 
+            {{ index . "v:event-location" }}
+            <!-- &ndash; {{ $end.Format "2 January 2006 15:04" }} -->
+        </p>
+        <p>
+            {{ index .summary.div "p"  | plainify }}
+            <a href="{{ $link }}">(more &hellip;)</a>
+        </p>
+    </div>
+    {{ end }}
+{{ else }}
+    <div><i>No upcoming events.</i></div>
+{{ end }}
