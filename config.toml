@@ -16,8 +16,12 @@ ignoreFiles = ["README.md"]
         target = "content/about/reports"  
 
     [[module.imports.mounts]]
-        source = "workshop_operations"
-        target = "content/workshops/for_instructors"  
+        source = "workshop_operations/onboarding-checklist.md"
+        target = "content/workshops/for_instructors/onboarding-checklist.md" 
+
+    [[module.imports.mounts]]
+        source = "workshop_operations/workshop-guide.md"
+        target = "content/workshops/for_instructors/workshop-guide.md"  
 
 [params]
   # (Optional, default none) Set the path to a logo for the book. If the logo is
