@@ -10,7 +10,7 @@ headless: true
 
 - **Workshops**
   - [Agenda]({{< relref "/workshops" >}})
-  - [Instructor Notes]({{< relref "/workshops/for_instructors" >}})
+  - [For Instructors]({{< relref "/workshops/for_instructors" >}})
 
 - **Study Group**
   - [About]({{< relref "/study_group" >}})
