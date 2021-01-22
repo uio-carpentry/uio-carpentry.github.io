@@ -1,0 +1,19 @@
+Log for images uploaded to this folder.
+
+Generally, this folder contains images of charts for the reports on Carpentries activities.
+
+Name image files in a way that makes it clear to which report they belong.
+
+carpentry_report_2019_01_chart_goals.png
+carpentry_report_2019_01_chart_practical_knowledge.png
+carpentry_report_2019_01_chart_recommendation.png
+carpentry_report_2019_01_chart_role_learner.png
+carpentry_report_2019_01_chart_usefulness.png
+carpentry_report_2019_01_chart_worth_time.png
+image_instructor-status-survey_lessons.png
+uio-carpentry_eval_2019_chart_goals-reached.png
+uio-carpentry_eval_2019_chart_practical-knowledge.png
+uio-carpentry_eval_2019_chart_recommendation.png
+uio-carpentry_eval_2019_chart_role.png
+uio-carpentry_eval_2019_chart_used-it.png
+uio-carpentry_eval_2019_chart_worth-it.png
