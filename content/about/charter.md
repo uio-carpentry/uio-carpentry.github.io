@@ -1,5 +1,7 @@
 # Carpentry@UiO Charter
 
+This charter describes our procedures and regulations.
+
 ## Organization
 
 The Club board is made up of 6 members:
