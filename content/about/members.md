@@ -30,19 +30,19 @@ Naoe Tatara
 We have many Carpentries certified instructors, too. 
 Would you like to become an instructor, too? Join our mailing list or meet us at a study group.
 
-[Sabry Razick ](http://github.com/Sabry Razick )
-[Anne Fouilloux](http://github.com/nne Fouilloux)
-[Maria Guadalupe Barrios Sazo](http://github.com/aria Guadalupe Barrios Sazo)
-[Anne Schad Bergsaker](http://github.com/nne Schad Bergsaker)
-Claudia Barth
-[Athanasia Monika Mowinckel](http://github.com/Athanasia Monika Mowinckel)
-[Tobias Busch](http://github.com/obias Busch)
-[Lex Nederbragt](http://github.com/Lex Nederbragt)
-[Dan Michael O. Heggø](http://github.com/an Michael O. Heggø)
-[Mohammad Masoudi](http://github.com/ohammad Masoudi)
-[Marius Bjørnstad](http://github.com/Marius Bjørnstad)
-[Naoe Tatara](http://github.com/aoe Tatara)
-Hans Peter Verne
-[Charitra Kumar Mishra](http://github.com/Charitra Kumar Mishra)
-[Mohamed Abdelhalim ](http://github.com/Mohamed Abdelhalim )
-[Sunniva Indrehus ](http://github.com/Sunniva Indrehus )
+* [Sabry Razick](http://github.com/sabryr)
+* [Anne Fouilloux](http://github.com/annefou)
+* [Maria Guadalupe Barrios Sazo](http://github.com/guadabsb15)
+* [Anne Schad Bergsaker](http://github.com/annesbe)
+* Claudia Barth
+* [Athanasia Monika Mowinckel](http://github.com/Athanasiamo)
+* [Tobias Busch](http://github.com/Teebusch)
+* [Lex Nederbragt](http://github.com/lexnederbragt)
+* [Dan Michael O. Heggø](http://github.com/danmichaelo)
+* [Mohammad Masoudi](http://github.com/MohammadMasoudi)
+* [Marius Bjørnstad](http://github.com/fa2k)
+* [Naoe Tatara](http://github.com/naoe-tatara)
+* Hans Peter Verne
+* [Charitra Kumar Mishra](http://github.com/)
+* [Mohamed Abdelhalim ](http://github.com/Me6me82)
+* [Sunniva Indrehus ](http://github.com/sunnivin)
