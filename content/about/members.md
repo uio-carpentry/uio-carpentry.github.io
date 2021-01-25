@@ -28,7 +28,7 @@ Naoe Tatara
 ## Community members
 
 We have many Carpentries certified instructors, too. 
-Would you like to become an instructor, too? [Join our mailing list](https://sympa.uio.no/carpentry.uio.no/subscribe/organizers?previous_action=info) or meet us at a study group({{< relref "/study_group" >}}).
+Would you like to become an instructor, too? [Join our mailing list](https://sympa.uio.no/carpentry.uio.no/subscribe/organizers?previous_action=info) or meet us at a [study group]({{< relref "/study_group" >}}).
 
 * [Sabry Razick](http://github.com/sabryr)
 * [Anne Fouilloux](http://github.com/annefou)
