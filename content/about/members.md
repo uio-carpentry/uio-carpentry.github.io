@@ -27,4 +27,4 @@ Naoe Tatara
 
 ## Instructors
 
-We have many active instructors. Would you like to become an instructor, too? Join our mailing list or meet us at a study group.
+We have many active instructors. Would you like to become an instructor, too? [Contact us](contact-us@carpentry.uio.no) or meet us at a [study group](https://uio-carpentry.github.io/study_group).
