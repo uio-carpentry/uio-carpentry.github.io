@@ -25,6 +25,8 @@ Naoe Tatara
 : UiO, Library, Science Library (UB)  
   _appointed by University of Oslo library_
 
+Minutes of the Carpentry\@UiO meetings can be found [in the meeting minutes folder](https://github.com/uio-carpentry/organisational/tree/master/meetings).
+
 ## Instructors
 
 We have many active instructors. Would you like to become an instructor, too? Join our mailing list or meet us at a study group.
