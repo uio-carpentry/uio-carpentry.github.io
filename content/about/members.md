@@ -46,3 +46,4 @@ Would you like to become an instructor, too? [Join our mailing list](https://sym
 * [Charitra Kumar Mishra](http://github.com/)
 * [Mohamed Abdelhalim ](http://github.com/Me6me82)
 * [Sunniva Indrehus ](http://github.com/sunnivin)
+* [Heidi Karlsen](http://github.com/heidikarlsen)
