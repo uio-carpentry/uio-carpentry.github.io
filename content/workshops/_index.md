@@ -16,6 +16,11 @@ Inbetween workshops we meet for study groups. To learn more about the study grou
 <!-- Put the upcoming workshops in the list and out-comment them so they won't be shown. 
 If the workshop has happened, take the comment brackets away et voilá! -->
 
+### 2021
+
+#### Carpentry Mini-workshops
+* January [Carpentry pilot Workshop (Online): Introduction to Conda for (Data) Scientists](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/time-and-place/210108_conda) - joint coordination by Digital Scholarship Center, CodeRefinery, Finnish Geospatial Research Institute FGI , UiT: The Arctic University of Norway and Aalto University - online
+
 ### 2020
 
 #### [Research Bazaar](https://www.ub.uio.no/english/courses-events/events/all-libraries/2020/research-bazaar-2020.html) workshops (January)

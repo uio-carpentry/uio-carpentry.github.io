@@ -27,6 +27,25 @@ Naoe Tatara
 
 Minutes of the Carpentry\@UiO meetings can be found [in the meeting minutes folder](https://github.com/uio-carpentry/organisational/tree/master/meetings).
 
-## Instructors
+## Community members
 
-We have many active instructors. Would you like to become an instructor, too? Join our mailing list or meet us at a study group.
+We have many Carpentries certified instructors, too. 
+Would you like to become an instructor, too? [Join our mailing list](https://sympa.uio.no/carpentry.uio.no/subscribe/organizers?previous_action=info) or meet us at a [study group]({{< relref "/study_group" >}}).
+
+* [Sabry Razick](http://github.com/sabryr)
+* [Anne Fouilloux](http://github.com/annefou)
+* [Maria Guadalupe Barrios Sazo](http://github.com/guadabsb15)
+* [Anne Schad Bergsaker](http://github.com/annesbe)
+* Claudia Barth
+* [Athanasia Monika Mowinckel](http://github.com/Athanasiamo)
+* [Tobias Busch](http://github.com/Teebusch)
+* [Lex Nederbragt](http://github.com/lexnederbragt)
+* [Dan Michael O. Heggø](http://github.com/danmichaelo)
+* [Mohammad Masoudi](http://github.com/MohammadMasoudi)
+* [Marius Bjørnstad](http://github.com/fa2k)
+* [Naoe Tatara](http://github.com/naoe-tatara)
+* Hans Peter Verne
+* [Charitra Kumar Mishra](http://github.com/)
+* [Mohamed Abdelhalim ](http://github.com/Me6me82)
+* [Sunniva Indrehus ](http://github.com/sunnivin)
+* [Heidi Karlsen](http://github.com/heidikarlsen)
