@@ -1,4 +1,4 @@
-name: deploy to gihub pages
+name: Rebuild site and deploy to Github pages
 
 on:
   workflow_dispatch:
