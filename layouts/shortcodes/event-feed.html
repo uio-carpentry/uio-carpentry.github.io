@@ -6,30 +6,33 @@
 
 {{ with $res.feed.entry }}
     {{ $entries := . }}
-    <!-- this is a hacky way to check if it is an array with entries, or a single entry
-    It's necassary because the xml to json converter is a little inconsistent. -->
+
+    <!-- This is a hacky way to check if it is an array with entries, or a single entry
+    It's necassary because the xml to json converter is a little inconsistent. If it is 
+    a single entry we convert it to a 1-element array -->
     {{ if not ( isset $entries -1 ) }}
         {{ $entries = ( slice $entries ) }}
     {{ end }}
 
     <div class="event-feed">
     {{ range $entries }}
-        {{ $start := index . "v:event-start" | time }}
-        {{ $end   := index . "v:event-end" | time }}
-        {{ $link  := index .link "@href" }}
+        {{ $start := index . "event-start" | time.Format "2 January 2006" }}
+        {{ $end   := index . "event-end" | time.Format "2 January 2006 15:04" }}
+        {{ $title := index .title.text }}
+        {{ $link  := index .link "href" }}
+        {{ $loc   := index . "event-location" }}
 
-        <h3><a href="{{ $link }}">{{  index .title "#text" }}</a></h3>
+        <h3><a href="{{ $link }}">{{ $title }}</a></h3>
         <p>
-            {{ $start.Format "2 January 2006" }}, 
-            {{ index . "v:event-location" }}
-            <!-- &ndash; {{ $end.Format "2 January 2006 15:04" }} -->
+            {{ $start }}<!-- &ndash; {{ $end }} -->, {{ $loc }}
         </p>
         <p>
             {{ index .summary.div "p"  | plainify }}
             <a href="{{ $link }}">(more &hellip;)</a>
         </p>
-    </div>
     {{ end }}
+    </div>
+
 {{ else }}
     <div><i>No upcoming events.</i></div>
 {{ end }}
