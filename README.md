@@ -45,6 +45,9 @@ If you are interested in participating in one of our workshops, please see [this
 3. Run `hugo server` in the project directory (optional: add `-D` to also render drafts). If you are experiencing issues, try to run `hugo mod get` to (re)load all the modules.
 4. Navigate to http://localhost:1313 to see the site. The local server has *live reload*, so changes to the source code will be reflected immediately.
 
+## How to update the theme
+
+The ([theme](https://themes.gohugo.io/hugo-book/)) is loaded as a Hugo Module. It is fixed to a particular version (i.e., a particular commit in the source repo). That way, upstream changes to the theme won't accidentally break our site. However, at some point it might make sense to update the theme with the latest upstream changes. To do that, clone the repo and run `hugo mod get github.com/alex-shpak/hugo-book` in the command line ([more info](https://gohugo.io/commands/hugo_mod_get/)). This will update the tagged version number in the `go.mod` file. Commit the changed version number, and the next time the site is rebuilt, the new version will be used. 
 ## Contribute
 
 Issues and pull requests are welcome!
