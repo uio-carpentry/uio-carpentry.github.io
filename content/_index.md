@@ -22,3 +22,7 @@ To join one of our courses visit the University of Oslo Library's
 To join our study group, go [here]({{< relref "/study_group" >}}).
 
 {{< /columns >}}
+
+## Contact us
+
+You can reach us at contact-us@carpentry.uio.no

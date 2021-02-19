@@ -25,10 +25,13 @@ Naoe Tatara
 : UiO, Library, Science Library (UB)  
   _appointed by University of Oslo library_
 
+Minutes of the Carpentry\@UiO meetings can be found [in the meeting minutes folder](https://github.com/uio-carpentry/organisational/tree/master/meetings).
+
 ## Community members
 
-We have many Carpentries certified instructors, too. 
-Would you like to become an instructor, too? [Join our mailing list](https://sympa.uio.no/carpentry.uio.no/subscribe/organizers?previous_action=info) or meet us at a [study group]({{< relref "/study_group" >}}).
+We have many active instructors, including Carpentries certified instructors. 
+You are more than welcome to join us as workshop helper or instructor! [Join our mailing list](https://sympa.uio.no/carpentry.uio.no/subscribe/organizers?previous_action=info) Or meet us at a [study group]({{< relref "/study_group" >}}) to learn and share skills and knowledge together!
+For more information, [contact us](mailto:contact-us@carpentry.uio.no). 
 
 * [Sabry Razick](http://github.com/sabryr)
 * [Anne Fouilloux](http://github.com/annefou)
@@ -47,3 +50,5 @@ Would you like to become an instructor, too? [Join our mailing list](https://sym
 * [Mohamed Abdelhalim ](http://github.com/Me6me82)
 * [Sunniva Indrehus ](http://github.com/sunnivin)
 * [Heidi Karlsen](http://github.com/heidikarlsen)
+* [Agata Bochynska](http://github.com/agboch)
+

@@ -1,16 +1,15 @@
-name: deploy to gihub pages
+name: Rebuild site and deploy to Github pages
 
 on:
+  workflow_dispatch:
   schedule:
     # cron format: minute hour day month weekday 
-    # 0 1 * * * = run every day at 1 am
-    - cron:  '0 1 * * *'
+    # 0 */12 * * * = run every 12 hours, starting at midnight (UTC)
+    - cron:  '0 */12 * * *'
   push:
     branches:
       - main
       - master
-      - use_hugo  # development only
-
 jobs:
   deploy:
     runs-on: ubuntu-18.04
