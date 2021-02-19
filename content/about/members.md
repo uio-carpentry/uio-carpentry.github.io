@@ -50,4 +50,4 @@ For more information, [contact us](mailto:contact-us@carpentry.uio.no).
 * [Mohamed Abdelhalim ](http://github.com/Me6me82)
 * [Sunniva Indrehus ](http://github.com/sunnivin)
 * [Heidi Karlsen](http://github.com/heidikarlsen)
-
+* [Agata Bochynska](http://github.com/agboch)
