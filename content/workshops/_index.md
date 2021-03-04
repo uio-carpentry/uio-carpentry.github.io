@@ -19,6 +19,7 @@ If the workshop has happened, take the comment brackets away et voilá! -->
 ### 2021
 
 #### Carpentry Mini-workshops
+* March [Carpentry: Plotting and Programming with Python (Novices)](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/time-and-place/210302_python) - online
 * January [Carpentry pilot Workshop (Online): Introduction to Conda for (Data) Scientists](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/time-and-place/210108_conda) - joint coordination by Digital Scholarship Center, CodeRefinery, Finnish Geospatial Research Institute FGI , UiT: The Arctic University of Norway and Aalto University - online
 
 ### 2020
