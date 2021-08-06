@@ -21,7 +21,7 @@ Annika Rockenberger
 : UiO, Humanities and Social Sciences Library (UB)  
   _appointed by University of Oslo library_
 
-Naoe Tatara
+Aino Rinhaug
 : UiO, Library, Science Library (UB)  
   _appointed by University of Oslo library_
 
