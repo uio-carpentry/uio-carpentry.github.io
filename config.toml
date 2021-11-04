@@ -44,6 +44,9 @@ ignoreFiles = ["README.md"]
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
   # Path must point to the site directory.
   BookEditPath = 'edit/master'
+  
+  # Because we are using Hugo 0.56 and modules 'contentDir' it needs to be set explicitly.
+  # This is necessary for the 'Edit this page' links to work, but there may be a better way.
   contentDir = 'content'
 
   # (Optional, default true) Enables comments template on pages
