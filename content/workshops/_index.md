@@ -4,7 +4,7 @@ weight: 1
 
 # Workshops
 
-We organize workshops multiple times a year. The best place to learn more about our workshops or register for one of them is [the University of Oslo Library's Carpentry course catalogue](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/) or [sign up UiO@Carpentry mailing list](https://sympa.uio.no/swcarpentry.uio.no/subscribe/announcements). 
+We organize workshops multiple times a year. The best place to learn more about our workshops or register for one of them is [the University of Oslo Library's Carpentry course catalogue](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/) or [sign up UiO@Carpentry mailing list](https://sympa.uio.no/swcarpentry.uio.no/subscribe/announcements).
 Inbetween workshops we meet for study groups. To learn more about the study group go [here]({{< relref "/study_group" >}}).
 
 ## Upcoming Workshops
@@ -13,7 +13,7 @@ Inbetween workshops we meet for study groups. To learn more about the study grou
 
 
 ## Past Workshops
-<!-- Put the upcoming workshops in the list and out-comment them so they won't be shown. 
+<!-- Put the upcoming workshops in the list and out-comment them so they won't be shown.
 If the workshop has happened, take the comment brackets away et voilá! -->
 
 ### 2021
@@ -29,27 +29,27 @@ If the workshop has happened, take the comment brackets away et voilá! -->
 
 #### One-day workshops
 
-* January [Writing and Publishing Together on the Web Using GitHub](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200117_github) - on-site
-* January [Plotting and Programming with Python](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200124_python) - on-site
-* January [R for Reproducible Scientific Analysis](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200131_repro) - on site
-* February [The Bash Shell](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200207_bash) - on-site
-* February [Python (intermediate)](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200214_Python-intermediate) - on-site
-* February [Version Control with Git](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200221_git) - on-site
-* May [Version Control with Git - Online](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200520_git_online) - online
-* September [The Unix Shell](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/200901_bash) - on-site
-* September [Version Control with Git](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/time-and-place/200929_git) - on-site
-* October [R for Reproducible Scientific Analysis](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/time-and-place/201007_rrepro) - on-site
-* November [Databases and SQL](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/time-and-place/201111_sql) - online
+* January [Writing and Publishing Together on the Web Using GitHub](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/arkiv/200117_github) - on-site
+* January [Plotting and Programming with Python](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/arkiv/200124_python) - on-site
+* January [R for Reproducible Scientific Analysis](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/arkiv/200131_repro) - on site
+* February [The Bash Shell](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/arkiv/200207_bash) - on-site
+* February [Python (intermediate)](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/arkiv/200214_Python-intermediate) - on-site
+* February [Version Control with Git](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/arkiv/200221_git) - on-site
+* May [Version Control with Git - Online](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/arkiv/200520_git_online) - online
+* September [The Unix Shell](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/arkiv/200901_bash) - on-site
+* September [Version Control with Git](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/arkiv/200929_git) - on-site
+* October [R for Reproducible Scientific Analysis](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/arkiv/201007_rrepro) - on-site
+* November [Databases and SQL](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/arkiv/201111_sql) - online
 
 #### Two-day workshops
 
-* October [Data Carpentry: Ecology](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/time-and-place/201014_nord_dceco) - organised by Nord University, open for UiO participants - online
-* October [Data Carpentry: Genomics](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/time-and-place/201021_nord_dcgen) - organised by Nord University, open for UiO participants - online
+* October [Data Carpentry: Ecology](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/arkiv/201014_nord_dceco) - organised by Nord University, open for UiO participants - online
+* October [Data Carpentry: Genomics](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/arkiv/201021_nord_dcgen) - organised by Nord University, open for UiO participants - online
 
 #### Carpentry Mini-Workshops
 
-* November [Carpentry mini workshop: Building Websites with Jekyll and GitHub/GitLab](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/time-and-place/201111_jekyll_wisconsin) - joint venture with University of Wisconsin-Madison - online
-* November [Carpentry mini workshop: Building Websites with Jekyll and GitHub/GitLab](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/time-and-place/201125_jekyll_wisconsin) - joint venture with University of Wisconsin-Madison - online
+* November [Carpentry mini workshop: Building Websites with Jekyll and GitHub/GitLab](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/arkiv/201111_jekyll_wisconsin) - joint venture with University of Wisconsin-Madison - online
+* November [Carpentry mini workshop: Building Websites with Jekyll and GitHub/GitLab](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/arkiv/201125_jekyll_wisconsin) - joint venture with University of Wisconsin-Madison - online
 <!-- -->
 
 ### 2019
@@ -65,7 +65,7 @@ If the workshop has happened, take the comment brackets away et voilá! -->
 
 * February [Git in Practice](https://uio-carpentry.github.io/2019-02-27-git/)
 * February [Version Control with Git](https://uio-carpentry.github.io/2019-02-15-Git/)
-* February [Python](https://uio-carpentry.github.io/2019-02-08-Python/) 
+* February [Python](https://uio-carpentry.github.io/2019-02-08-Python/)
 * March [Data Analysis and Visualization with R for Ecology](https://uio-carpentry.github.io/2019-03-08-R/)
 * April [The UNIX Bash Shell (novices)](https://uio-carpentry.github.io/2019-04-24-Unix-novice/)
 * May [Getting more out of the UNIX Shell](https://uio-carpentry.github.io/2019-05-03-Unix-adv-beginner/)
@@ -115,33 +115,33 @@ If the workshop has happened, take the comment brackets away et voilá! -->
 * Miniseminar ["Digital tools for managing and sharing research data"](http://www.ub.uio.no/english/courses-events/events/ureal/2017/170202_presentations)
 * Two-day [Software Carpentry workshop](https://uio-carpentry.github.io/2017-02-01-swc/)
 * Two-day [Library Carpentry workshop](https://uio-carpentry.github.io/2017-02-02-librarycarpentry/)
-* Half-day [Data Management Plans workshop](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/170201_datamanagement)
+* Half-day [Data Management Plans workshop](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/arkiv/170201_datamanagement)
 * Half-day [GNU Make workshop](https://uio-carpentry.github.io/2017-02-01-make/)
-* Half-day [Collaboration with GitHub workshop](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/170202_github)
-* Half-day [Zotero workshop](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/170202_zotero)
-* Half-day [Share and collaborate with OneDrive and OneNote workshop](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/170202_OneDrive)
-* Half-day [Jupyter Notebook and IPython workshop](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/170202_jupyter)
-* Half-day [Big Data - pyspark workshop](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/170203_bigdata)
-* Half-day [LaTeX workshop](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/170203_latex)
+* Half-day [Collaboration with GitHub workshop](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/arkiv/170202_github)
+* Half-day [Zotero workshop](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/arkiv/170202_zotero)
+* Half-day [Share and collaborate with OneDrive and OneNote workshop](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/arkiv/170202_OneDrive)
+* Half-day [Jupyter Notebook and IPython workshop](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/arkiv/170202_jupyter)
+* Half-day [Big Data - pyspark workshop](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/arkiv/170203_bigdata)
+* Half-day [LaTeX workshop](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/arkiv/170203_latex)
 
 #### Two-day workshops
 
 * June [Tidy Programming in R for Reproducible Scientific Analysis workshop](https://uio-carpentry.github.io/2017-06-06_R_tidyverse/)
 
 #### One-day workshops
-* January [R for Reproducible Scientific Analysis](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/161801_R)
+* January [R for Reproducible Scientific Analysis](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/arkiv/161801_R)
 * March [Unix Shell workshop](https://uio-carpentry.github.io/2017-03-15-unix/)
 * March [Python workshop](https://uio-carpentry.github.io/2017-03-29-python/)
 * April [Programming in R for Reproducible Scientific Analysis workshop](https://uio-carpentry.github.io/2017-04-05_R_tidyverse/)
 * April [Version control with git workshop](https://uio-carpentry.github.io/2017-04-26-git/)
 * May [Databases with SQL workshop](https://uio-carpentry.github.io/2017-05-10-sql/)
-* May [Writing and publishing on the web together using Github](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/170524_writing_git)
+* May [Writing and publishing on the web together using Github](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/arkiv/170524_writing_git)
 * August [Plotting and Programming Python workshop](https://uio-carpentry.github.io/2017-08-15-python/)
 * September [Spatio-temporal data in Python workshop](https://uio-carpentry.github.io/2017-09-29-geopython/)
 * October [Unix shell workshop](https://uio-carpentry.github.io/2017-10-27-unix/)
 * November [Python workshop](https://uio-carpentry.github.io/2017-11-10-python/)
 * November [R for Reproducible Research workshop](https://uio-carpentry.github.io/2017-11-24-R/)
-* December [Writing and publishing on the web together using Github](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/171208_github)
+* December [Writing and publishing on the web together using Github](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/arkiv/171208_github)
 
 In addition we organized two Data Therapy sessions in November and December.
 
@@ -167,7 +167,7 @@ In addition we organized two Data Therapy sessions in November and December.
 * October [Unix Shell  workshop](https://uio-carpentry.github.io/2016-10-12-unix/)
 * October [Version Control with Git workshop](https://uio-carpentry.github.io/2016-10-26-git/)
 * November [Automation and Make workshop](https://uio-carpentry.github.io/2016-11-09-make/)
-* December [Open Research data workshop](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/161205_RDM)
+* December [Open Research data workshop](http://www.ub.uio.no/english/courses-events/courses/other/Carpentry/arkiv/161205_RDM)
 
 #### Other workshops
 * UiO also hosted an [Instructor Training workshop](http://uio-carpentry.github.io/2016-06-30-Oslo-ttt/) in June
