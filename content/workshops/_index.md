@@ -18,7 +18,18 @@ If the workshop has happened, take the comment brackets away et voilá! -->
 
 ### 2021
 
-#### Carpentry Mini-workshops
+#### Two-day Data Carpentry Workshop
+
+* November [Data Carpentry: Social Sciences and Humanities Using R](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/211122_dcssh) - on-site
+
+#### One-day workshops
+
+<!-- * December [Carpentry: Databases and SQL](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/arkiv/211207_sql) - on-site -->
+* November [Carpentry: Plotting and Programming with Python (Novices)](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/211130_python) - on-site
+* October [Carpentry@UiO: Writing and Publishing on the Web Together Using GitHub](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/211103_github) - on-site
+
+#### Mini-workshops
+
 * May [Carpentry@UiO Data Analysis and Visualization in R and Tidyverse (Novices)](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/210525_r) - online
 * March [Carpentry: Plotting and Programming with Python (Novices)](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/210302_python) - online
 * January [Carpentry pilot Workshop (Online): Introduction to Conda for (Data) Scientists](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/210108_conda) - joint coordination by Digital Scholarship Center, CodeRefinery, Finnish Geospatial Research Institute FGI , UiT: The Arctic University of Norway and Aalto University - online
