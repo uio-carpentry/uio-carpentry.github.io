@@ -51,3 +51,11 @@ For more information, [contact us](mailto:contact-us@carpentry.uio.no).
 * [Sunniva Indrehus ](http://github.com/sunnivin)
 * [Heidi Karlsen](http://github.com/heidikarlsen)
 * [Agata Bochynska](http://github.com/agboch)
+
+## Alumni
+
+* [Michel Heeremans](http://github.com/heereman)
+* [Gladys Nalvarte](http://github.com/GladysNalvarte)
+* [Eve Zeyl Fiskebeck](http://github.com/evezeyl)
+* [Eszter A. Papp](http://github.com/eapapp)
+* [Tina Visnovska](http://github.com/tinavisnovska)
