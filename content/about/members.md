@@ -4,24 +4,27 @@
 
 Lex Nederbragt  
 : UiO, Department of BioSciences (IBV) and Department of Informatics (IFI)  
-  _chair_
+  _Chair_
 
 Mohamed Abdelhalim
 : UiO, Institute of Basic Medical Sciences (IMB)
-
+  _Vice Chair_
+  
 Désirée Treichler
 : UiO, Department of Geosciences (GEO)
+  _Secretary_
 
 Anne Schad Bergsaker  
-: UiO, University Center for Information Technology (USIT)  
+: UiO, University Center for Information Technology (USIT)
+  _Outreach officer_
 
 Annika Rockenberger  
 : UiO, Humanities and Social Sciences Library (UB)  
-  _appointed by University of Oslo library_
+  _Appointed by University of Oslo library_
 
 Aino Rinhaug      
 : UiO, Library, Science Library (UB)  
-  _appointed by University of Oslo library_
+  _Appointed by University of Oslo library_
 
 Minutes of the Carpentry\@UiO meetings can be found [in the meeting minutes folder](https://github.com/uio-carpentry/organisational/tree/master/meetings).
 
@@ -61,8 +64,8 @@ For more information, [contact us](mailto:contact-us@carpentry.uio.no).
 ## Previous board members
 Viviane Girardin  
 : Norwegian Institute for Water Research, Section for Environmental Data Science (NIVA)  
-  _vice-chair 2020-2022_
+  _Vice Chair 2020-2022_
 
 Tobias Busch  
 : UiO, Department of Special Needs Education (ISP)  
-  _secretary 2020-2022_
+  _Secretary 2020-2022_
