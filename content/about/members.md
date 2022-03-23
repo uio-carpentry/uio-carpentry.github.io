@@ -7,15 +7,15 @@ Lex Nederbragt
   _Chair_
 
 Mohamed Abdelhalim
-: UiO, Institute of Basic Medical Sciences (IMB)
+: UiO, Institute of Basic Medical Sciences (IMB)  
   _Vice Chair_
   
 Désirée Treichler
-: UiO, Department of Geosciences (GEO)
+: UiO, Department of Geosciences (GEO)  
   _Secretary_
 
 Anne Schad Bergsaker  
-: UiO, University Center for Information Technology (USIT)
+: UiO, University Center for Information Technology (USIT)  
   _Outreach officer_
 
 Annika Rockenberger  
