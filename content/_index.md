@@ -15,6 +15,7 @@ For more information, read [Mission Statement]({{< relref "/about" >}}) and our 
 ## Join a workshop
 To join one of our courses visit the University of Oslo Library's 
 [Carpentry course catalogue](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/).
+If you want to be kept updated on future Carpentry workshops at UiO, please sign up for our [mailing list](https://sympa.uio.no/carpentry.uio.no/info/announcements).
 
 <--->
 
@@ -22,6 +23,10 @@ To join one of our courses visit the University of Oslo Library's
 To join our study group, go [here]({{< relref "/study_group" >}}).
 
 {{< /columns >}}
+
+
+## Join us: get involved as a helper or instructor!
+Are you interested in taking part in upcoming workshops? Would you like to join as a helper, or as an instructor? Or do you want to you share and learn about useful digital tools and best practice together? Please join us! Contact us through our email address, see below.
 
 ## Contact us
 
