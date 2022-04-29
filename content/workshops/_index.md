@@ -16,6 +16,16 @@ Inbetween workshops we meet for study groups. To learn more about the study grou
 <!-- Put the upcoming workshops in the list and out-comment them so they won't be shown.
 If the workshop has happened, take the comment brackets away et voilá! -->
 
+### 2022
+
+### Two-day Carpentry Workshop
+
+* April [Carpentry@UiO: Data Analysis and Visualization in R and Tidyverse (Novices)](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/220411_r) - on-site
+
+### One-day Carpentry workshops
+
+* April [Using Databases and SQL](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/220406_sql) - on-site
+
 ### 2021
 
 #### Two-day Data Carpentry Workshop
