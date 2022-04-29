@@ -22,7 +22,7 @@ If the workshop has happened, take the comment brackets away et voilá! -->
 
 * April [Carpentry@UiO: Data Analysis and Visualization in R and Tidyverse (Novices)](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/220411_r) - on-site
 
-### One-day Carpentry workshops
+### One-day Carpentry Workshop
 
 * April [Using Databases and SQL](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/220406_sql) - on-site
 
