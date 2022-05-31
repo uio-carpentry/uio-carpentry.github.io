@@ -13,8 +13,9 @@ Elections will be organized every year for renewing half of the elected
 members of the board (2 members).
 
 The board will appoint a board chair, vice chair, communications officer
-and and secretary at the first meeting of the new board after the
+and secretary at the first meeting of the new board after the
 election.
+Officer positions should normally be filled by elected members.
 
 Responsibilities of each officer of the board are as follows:
 
