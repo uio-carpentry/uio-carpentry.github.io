@@ -22,8 +22,8 @@ Annika Rockenberger
 : UiO, Humanities and Social Sciences Library (UB)  
   _Appointed by University of Oslo library_
 
-Aino Rinhaug      
-: UiO, Library, Science Library (UB)  
+Sofie Gilbert      
+: UiO, Library, Digital Scholarship Center (UB)  
   _Appointed by University of Oslo library_
 
 Minutes of the Carpentry\@UiO meetings can be found [in the meeting minutes folder](https://github.com/uio-carpentry/organisational/tree/master/meetings).
@@ -34,13 +34,10 @@ We have many active instructors, including Carpentries certified instructors.
 You are more than welcome to join us as workshop helper or instructor! [Join our mailing list](https://sympa.uio.no/carpentry.uio.no/subscribe/organizers?previous_action=info) Or meet us at a [study group]({{< relref "/study_group" >}}) to learn and share skills and knowledge together!
 For more information, [contact us](mailto:contact-us@carpentry.uio.no). 
 
-* [Sabry Razick](http://github.com/sabryr)
-* [Anne Fouilloux](http://github.com/annefou)
 * [Maria Guadalupe Barrios Sazo](http://github.com/guadabsb15)
 * [Anne Schad Bergsaker](http://github.com/annesbe)
 * Claudia Barth
 * [Athanasia Monika Mowinckel](http://github.com/Athanasiamo)
-* [Tobias Busch](http://github.com/Teebusch)
 * [Lex Nederbragt](http://github.com/lexnederbragt)
 * [Dan Michael O. Heggø](http://github.com/danmichaelo)
 * [Mohammad Masoudi](http://github.com/MohammadMasoudi)
@@ -55,6 +52,9 @@ For more information, [contact us](mailto:contact-us@carpentry.uio.no).
 
 ## Alumni
 
+* [Tobias Busch](http://github.com/Teebusch)
+* [Anne Fouilloux](http://github.com/annefou)
+* [Sabry Razick](http://github.com/sabryr)
 * [Michel Heeremans](http://github.com/heereman)
 * [Gladys Nalvarte](http://github.com/GladysNalvarte)
 * [Eve Zeyl Fiskebeck](http://github.com/evezeyl)
@@ -69,3 +69,7 @@ Viviane Girardin
 Tobias Busch  
 : UiO, Department of Special Needs Education (ISP)  
   _Secretary 2020-2022_
+
+Aino Rinhaug
+: UiO, Library, Digital Scholarship Center (UB)
+  _Appointed by the University Library 2021-2022_
