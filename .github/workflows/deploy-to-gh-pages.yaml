@@ -16,7 +16,7 @@ jobs:
 
     steps:
     - name: Checkout Repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
       with:
           submodules: true
           fetch-depth: 0
@@ -28,7 +28,7 @@ jobs:
         extended: true
 
     - name: Setup Python
-      uses: "actions/setup-python@v2"
+      uses: "actions/setup-python@v4"
 
     - name: Install rst2html
       run: pip install rst2html
