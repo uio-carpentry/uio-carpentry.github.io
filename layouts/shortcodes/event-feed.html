@@ -1,6 +1,11 @@
 {{ $feedurl := (.Get 0) }}
 {{ $jsonurl := (printf "https://api.factmaven.com/xml-to-json/?xml=%s" $feedurl) }}
-<!-- Converts xml to json. Alternative API: "https://api.rss2json.com/v1/api.json?rss_url=%s" -->
+<!-- Converts xml to json. Alternative API: "https://api.rss2json.com/v1/api.json?rss_url=%s" 
+  currently using this JSON feed:
+  https://api.factmaven.com/xml-to-json/?xml=https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/?vrtx=feed
+-->
+
+
 
 {{ $res := getJSON $jsonurl }}
 
@@ -16,20 +21,22 @@
 
     <div class="event-feed">
     {{ range $entries }}
-        {{ $start := index . "event-start" | time.Format "2 January 2006" }}
-        {{ $end   := index . "event-end" | time.Format "2 January 2006 15:04" }}
-        {{ $title := index .title.text }}
-        {{ $link  := index .link "href" }}
-        {{ $loc   := index . "event-location" }}
+        {{ $start   := index . "event-start" | time.Format "2 January 2006" }}
+        {{ $end     := index . "event-end" | time.Format "2 January 2006 15:04" }}
+        {{ $title   := index .title.text }}
+        {{ $link    := index .link "href" }}
+        {{ $loc     := index . "event-location" }}
+        {{/*  {{ $descr   := index .summary.div "p"}}
+        {{ $summary := index $descr }}  */}}
 
         <h3><a href="{{ $link }}">{{ $title }}</a></h3>
         <p>
             {{ $start }}<!-- &ndash; {{ $end }} -->, {{ $loc }}
         </p>
-        <p>
-            {{ index .summary.div "p"  | plainify }}
-            <a href="{{ $link }}">(more &hellip;)</a>
-        </p>
+        {{/* <p>
+          {{ $summary }}
+          <a href="{{ $link }}">(more &hellip;)</a>
+        </p>  */}}
     {{ end }}
     </div>
 
