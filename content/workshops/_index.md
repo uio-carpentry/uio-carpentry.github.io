@@ -21,17 +21,13 @@ If the workshop has happened, take the comment brackets away et voilá! -->
 #### Two-day Data Carpentry Workshop
 
 * November [Data Carpentry: Social Sciences and Humanities Using R](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/221124_dcssh) - on-site
-
-#### One-day Carpentry Workshop
-
-* November [Data Carpentry: R for Social Scientist](https://preview.carpentries.org/r-socialsci/) - on-site
-
-#### Two-day Carpentry Workshop
-
+* September [TidyVerse](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/220920_tidy) - on-site
 * April [Carpentry@UiO: Data Analysis and Visualization in R and Tidyverse (Novices)](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/220411_r) - on-site
 
 #### One-day Carpentry Workshop
 
+* November [Data Carpentry: R for Social Scientist](https://preview.carpentries.org/r-socialsci/) - on-site
+*  October [Unix Shell](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/221013_shell) - on-site
 * April [Using Databases and SQL](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/220406_sql) - on-site
 
 ### 2021
