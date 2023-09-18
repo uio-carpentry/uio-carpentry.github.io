@@ -42,18 +42,18 @@ Responsibilities of each officer of the board are as follows:
 
 - Ensure that someone is assigned to and takes minutes during all
     board meetings
-- Report decisions and action items in formal minutes published
-    publicly
+- Ensure that decisions and action items are reported in formal minutes published publicly
 - Revise minutes for publication, and publish minutes
 
 ### Communications officer
 
 - Receive all communication from community to the board and relay as
   necessary
+  - Mentoring instructor trainees towards certification and teaching
 
 ### Community events officer
 
-- Organise regular community events
+- Organise regular community events, for example once per semester
 
 ### Elections officer
 
@@ -75,11 +75,11 @@ Board members will not serve for more than two consecutive three year terms,
 followed by at least a one year hiatus before serving any new term(s).
 
 Anyone who has participated in a Carpentries event in any capacity
-(learner, helper, instructor, organizer, or host) at UiO or elsewhere in
+(learner, helper, instructor, organizer, board member or host) at UiO or elsewhere in
 the past 2 years will be eligible to vote.
 
 Elections will be held at an annual community meeting each year
-taking place in November or December.
+preferably taking place in November or December.
 The two candidates who received the largest number
 of votes will constitute the newly elected members of the next board.
 In case of ties, 
