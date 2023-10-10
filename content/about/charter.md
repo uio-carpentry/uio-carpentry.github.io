@@ -4,17 +4,19 @@ This charter describes our procedures and regulations.
 
 ## Organization
 
-The Club board is made up of 6 members:
+The organisation's board is made up of 8 members:
 
-- 4 members elected for 2-years.
+- 6 members elected for 3-year terms
 - 2 members are designated by the UiO Library
 
-Elections will be organized every year for renewing half of the elected
-members of the board (2 members).
+Elections will be organized every year for renewing two of the elected
+members of the board.
+Board terms start January 1st.
 
-The board will appoint a board chair, vice chair, communications officer
-and secretary at the first meeting of the new board after the
-election.
+At the first meeting of the new board after the election,
+the board will appoint a board chair, vice chair, communications officer,
+secretary, community events officer, and elections officer.
+
 Officer positions should normally be filled by elected members.
 
 Responsibilities of each officer of the board are as follows:
@@ -23,7 +25,7 @@ Responsibilities of each officer of the board are as follows:
 
 - Oversee regularly scheduled board meetings and call special meetings
     as necessary
-- Prepare the agenda for Executive Council meetings
+- Prepare the agenda for board meetings
 - Receive all communication from UiO to the board and relay as
     necessary
 
@@ -39,43 +41,49 @@ Responsibilities of each officer of the board are as follows:
 ### Secretary
 
 - Ensure that someone is assigned to and takes minutes during all
-    board EC meetings
-- Revise minutes for publication
-- Report decisions and action items in formal minutes published
-    publicly (when applicable)
+    board meetings
+- Ensure that decisions and action items are reported in formal minutes published publicly
+- Revise minutes for publication, and publish minutes
 
 ### Communications officer
 
 - Receive all communication from community to the board and relay as
   necessary
+  - Mentoring instructor trainees towards certification and teaching
+
+### Community events officer
+
+- Organise regular community events, for example once per semester
+
+### Elections officer
+
+- Recruit community members to stand for election
+- Coordinate the election
+- This role should preferably be held by a board member 
+    rotating off the board at the next election
 
 ## Elections
-
-Elections will be held at the start of each fall semester. The board
-chair and board secretary are in charge of organizing annual election
-for board renewal.
-
-Candidates will self nominate with a short (<300 words) statement that
-will be publicly posted for voters to review.
 
 The criteria for individuals to stand for election to the board are:
 
 - Is a member of the Carpentry@UiO, broadly defined
 - Has participated in a Carpentries event in any capacity (learner,
-    helper, instructor, organizer, or host) at UiO or elsewhere in the
+    helper, instructor, organizer, board member or host) at UiO or elsewhere in the
     past 2 years
 
-Anyone who has participated in a Carpentries event in any capacity
-(learner, helper, instructor, organizer, or host) at UiO or elsewhere in
-the past 2 years will be eligible to vote. An election manager will be
-identified by the board to maintain the eligible voter list, notify
-voters, and tally votes.
+Board members will not serve for more than two consecutive three year terms,
+followed by at least a one year hiatus before serving any new term(s).
 
-The board will select the two candidates who received the largest number
-of votes to constitute the newly elected members of the next board. In
-case of ties, the board may use any method to choose among tied
-candidates to ensure that no more than two candidates are selected to
-constitute the newly elected members of the next board.
+Anyone who has participated in a Carpentries event in any capacity
+(learner, helper, instructor, organizer, board member or host) at UiO or elsewhere in
+the past 2 years will be eligible to vote.
+
+Elections will be held at an annual community meeting each year
+preferably taking place in November or December.
+The two candidates who received the largest number
+of votes will constitute the newly elected members of the next board.
+In case of ties, 
+a new round of voting takes place restricted to the tied candidates.
 
 ## Amendments to the Charter
 
