@@ -85,6 +85,15 @@ of votes will constitute the newly elected members of the next board.
 In case of ties, 
 a new round of voting takes place restricted to the tied candidates.
 
+## Vacancies inbetween elections
+
+If an elected board member needs to step down from the board,
+the board will work to find a replacement to fill the empty seat
+from the members eligible for election.
+Candidates from the last election that received some votes,
+but not enough for them to be elected should be considered first
+to fill such a vacancy.
+
 ## Amendments to the Charter
 
 Amendments to the charter can be proposed by existing board members in
