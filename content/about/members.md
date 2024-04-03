@@ -62,6 +62,14 @@ For more information, [contact us](mailto:contact-us@carpentry.uio.no).
 * [Tina Visnovska](http://github.com/tinavisnovska)
 
 ## Previous board members
+Lex Nederbragt
+: UiO, Department of BioSciences (IBV) and Department of Informatics (IFI)
+_Chair_ 
+
+Anne Schad Bergsaker
+: UiO, University Center for Information Technology (USIT)
+_Outreach officer_
+
 Viviane Girardin  
 : Norwegian Institute for Water Research, Section for Environmental Data Science (NIVA)  
   _Vice Chair 2020-2022_
