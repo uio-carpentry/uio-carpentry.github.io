@@ -1,9 +1,7 @@
 # Who are we?
 
 ## Board
-
-Lex Nederbragt  
-: UiO, Department of BioSciences (IBV) and Department of Informatics (IFI)  
+  
   _Chair_
 
 Mohamed Abdelhalim
@@ -13,18 +11,20 @@ Mohamed Abdelhalim
 Désirée Treichler
 : UiO, Department of Geosciences (GEO)  
   _Secretary_
-
-Anne Schad Bergsaker  
-: UiO, University Center for Information Technology (USIT)  
+  
   _Outreach officer_
 
-Annika Rockenberger  
-: UiO, Humanities and Social Sciences Library (UB)  
-  _Appointed by University of Oslo library_
-
-Sofie Gilbert      
+Elisa Pierfederici
 : UiO, Library, Digital Scholarship Center (UB)  
   _Appointed by University of Oslo library_
+
+My Lothe Bjørnflaten      
+: UiO, Library, Digital Scholarship Center (UB)  
+  _Appointed by University of Oslo library_
+
+  Matthew Good
+: UiO, Library, Digital Scholarship Center (UB)
+_Appointed by University of Oslo library_
 
 Minutes of the Carpentry\@UiO meetings can be found [in the meeting minutes folder](https://github.com/uio-carpentry/organisational/tree/master/meetings).
 
