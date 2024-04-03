@@ -22,7 +22,7 @@ My Lothe Bjørnflaten
 : UiO, Library, Digital Scholarship Center (UB)  
   _Appointed by University of Oslo library_
 
-  Matthew Good
+Matthew Good
 : UiO, Library, Digital Scholarship Center (UB)
 _Appointed by University of Oslo library_
 
