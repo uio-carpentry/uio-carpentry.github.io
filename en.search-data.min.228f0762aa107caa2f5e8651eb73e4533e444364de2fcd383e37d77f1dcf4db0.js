@@ -433,8 +433,7 @@ Vice Chair Désirée Treichler UiO, Department of Geosciences (GEO)
 Secretary Outreach officer
 Elisa Pierfederici UiO, Library, Digital Scholarship Center (UB)
 Appointed by University of Oslo library My Lothe Bjørnflaten UiO, Library, Digital Scholarship Center (UB)
-Appointed by University of Oslo library Matthew Good
-UiO, Library, Digital Scholarship Center (UB) Appointed by University of Oslo library Minutes of the Carpentry@UiO meetings can be found in the meeting minutes folder.
+Appointed by University of Oslo library Matthew Good UiO, Library, Digital Scholarship Center (UB) Appointed by University of Oslo library Minutes of the Carpentry@UiO meetings can be found in the meeting minutes folder.
 Community members # We have many active instructors, including Carpentries certified instructors. You are more than welcome to join us as workshop helper or instructor! Join our mailing list Or meet us at a study group to learn and share skills and knowledge together! For more information, contact us.
 Maria Guadalupe Barrios Sazo Anne Schad Bergsaker Claudia Barth Athanasia Monika Mowinckel Lex Nederbragt Dan Michael O. Heggø Mohammad Masoudi Marius Bjørnstad Naoe Tatara Hans Peter Verne Charitra Kumar Mishra Mohamed Abdelhalim Sunniva Indrehus Heidi Karlsen Agata Bochynska Alumni # Tobias Busch Anne Fouilloux Sabry Razick Michel Heeremans Gladys Nalvarte Eve Zeyl Fiskebeck Eszter A. Papp Tina Visnovska Previous board members # Lex Nederbragt UiO, Department of BioSciences (IBV) and Department of Informatics (IFI) Chair Anne Schad Bergsaker UiO, University Center for Information Technology (USIT) Outreach officer Viviane Girardin Norwegian Institute for Water Research, Section for Environmental Data Science (NIVA)
 Vice Chair 2020-2022 Tobias Busch UiO, Department of Special Needs Education (ISP)
