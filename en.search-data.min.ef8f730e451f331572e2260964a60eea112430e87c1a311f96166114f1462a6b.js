@@ -427,13 +427,14 @@ Vacancies inbetween elections # If an elected board member needs to step down fr
 Amendments to the Charter # Amendments to the charter can be proposed by existing board members in writing in advance of any board meeting.
 Amendments require a 2/3 majority vote to be accepted.
 This text is based on the University of Florida Carpentries Club Charter.
-`}),e.add({id:68,href:"/about/members/",title:"Members",section:"Governance",content:` Who are we? # Board # Lex Nederbragt UiO, Department of BioSciences (IBV) and Department of Informatics (IFI)
-Chair Mohamed Abdelhalim UiO, Institute of Basic Medical Sciences (IMB)
+`}),e.add({id:68,href:"/about/members/",title:"Members",section:"Governance",content:` Who are we? # Board # Chair
+Mohamed Abdelhalim UiO, Institute of Basic Medical Sciences (IMB)
 Vice Chair Désirée Treichler UiO, Department of Geosciences (GEO)
-Secretary Anne Schad Bergsaker UiO, University Center for Information Technology (USIT)
-Outreach officer Annika Rockenberger UiO, Humanities and Social Sciences Library (UB)
-Appointed by University of Oslo library Sofie Gilbert UiO, Library, Digital Scholarship Center (UB)
-Appointed by University of Oslo library Minutes of the Carpentry@UiO meetings can be found in the meeting minutes folder.
+Secretary Outreach officer
+Elisa Pierfederici UiO, Library, Digital Scholarship Center (UB)
+Appointed by University of Oslo library My Lothe Bjørnflaten UiO, Library, Digital Scholarship Center (UB)
+Appointed by University of Oslo library Matthew Good
+UiO, Library, Digital Scholarship Center (UB) Appointed by University of Oslo library Minutes of the Carpentry@UiO meetings can be found in the meeting minutes folder.
 Community members # We have many active instructors, including Carpentries certified instructors. You are more than welcome to join us as workshop helper or instructor! Join our mailing list Or meet us at a study group to learn and share skills and knowledge together! For more information, contact us.
 Maria Guadalupe Barrios Sazo Anne Schad Bergsaker Claudia Barth Athanasia Monika Mowinckel Lex Nederbragt Dan Michael O. Heggø Mohammad Masoudi Marius Bjørnstad Naoe Tatara Hans Peter Verne Charitra Kumar Mishra Mohamed Abdelhalim Sunniva Indrehus Heidi Karlsen Agata Bochynska Alumni # Tobias Busch Anne Fouilloux Sabry Razick Michel Heeremans Gladys Nalvarte Eve Zeyl Fiskebeck Eszter A. Papp Tina Visnovska Previous board members # Viviane Girardin Norwegian Institute for Water Research, Section for Environmental Data Science (NIVA)
 Vice Chair 2020-2022 Tobias Busch UiO, Department of Special Needs Education (ISP)
