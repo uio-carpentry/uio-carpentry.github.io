@@ -427,11 +427,7 @@ Vacancies inbetween elections # If an elected board member needs to step down fr
 Amendments to the Charter # Amendments to the charter can be proposed by existing board members in writing in advance of any board meeting.
 Amendments require a 2/3 majority vote to be accepted.
 This text is based on the University of Florida Carpentries Club Charter.
-`}),e.add({id:68,href:"/about/members/",title:"Members",section:"Governance",content:` Who are we? # Board # Chair
-Mohamed Abdelhalim UiO, Institute of Basic Medical Sciences (IMB)
-Vice Chair Désirée Treichler UiO, Department of Geosciences (GEO)
-Secretary Outreach officer
-Elisa Pierfederici UiO, Library, Digital Scholarship Center (UB)
+`}),e.add({id:68,href:"/about/members/",title:"Members",section:"Governance",content:` Who are we? # Board # Désirée Treichler UiO, Department of Geosciences (GEO) Chair Federico Bianchini UiO, Centre for bioinformatics (SBI) Vice Chair Luis Eduardo Munoz UiO, Health-, Developmental- and Personality- psychology (HUP) Secretary Mohamed Abdelhalim UiO, Institute of Basic Medical Sciences (IMB) Outreach officer Elisa Pierfederici UiO, Library, Digital Scholarship Center (UB)
 Appointed by University of Oslo library My Lothe Bjørnflaten UiO, Library, Digital Scholarship Center (UB)
 Appointed by University of Oslo library Matthew Good UiO, Library, Digital Scholarship Center (UB)
 Appointed by University of Oslo library Minutes of the Carpentry@UiO meetings can be found in the meeting minutes folder.
