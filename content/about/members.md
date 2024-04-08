@@ -22,7 +22,7 @@ Nazeefa Fatima
   _Community events officer_
 
 Ragnhild Sundsbak
-: UiO, University of Oslo library (UB)
+: UiO, Humanities and Social Sciences library (UB)
 _Elections officer_
 
 Elisa Pierfederici
