@@ -1,17 +1,20 @@
 # Who are we?
 
 ## Board
-  
+Désirée Treichler
+: UiO, Department of Geosciences (GEO)
   _Chair_
 
-Mohamed Abdelhalim
-: UiO, Institute of Basic Medical Sciences (IMB)  
+Federico Bianchini
+: UiO, Centre for bioinformatics (SBI)
   _Vice Chair_
   
-Désirée Treichler
-: UiO, Department of Geosciences (GEO)  
+Luis Eduardo Munoz
+: UiO, Health-, Developmental- and Personality- psychology (HUP)
   _Secretary_
-  
+
+Mohamed Abdelhalim
+: UiO, Institute of Basic Medical Sciences (IMB)
   _Outreach officer_
 
 Elisa Pierfederici
