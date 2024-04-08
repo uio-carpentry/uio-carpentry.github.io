@@ -15,7 +15,15 @@ Luis Eduardo Munoz
 
 Mohamed Abdelhalim
 : UiO, Institute of Basic Medical Sciences (IMB)
-  _Outreach officer_
+  _Communications officer_
+
+Nazeefa Fatima
+: UiO, Centre for bioinformatics (SBI)
+  _Community events officer_
+
+Ragnhild Sundsbak
+: UiO, University of Oslo library (UB)
+_Elections officer_
 
 Elisa Pierfederici
 : UiO, Library, Digital Scholarship Center (UB)  
