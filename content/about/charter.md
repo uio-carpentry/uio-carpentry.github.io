@@ -69,7 +69,7 @@ The criteria for individuals to stand for election to the board are:
 - Is a member of the Carpentry@UiO, broadly defined
 - Has participated in a Carpentries event in any capacity (learner,
     helper, instructor, organizer, board member or host) at UiO or elsewhere in the
-    past 2 years
+    past 3 years
 
 Board members will not serve for more than two consecutive three year terms,
 followed by at least a one year hiatus before serving any new term(s).
