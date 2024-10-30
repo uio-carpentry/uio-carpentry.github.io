@@ -74,10 +74,6 @@ The criteria for individuals to stand for election to the board are:
 Board members will not serve for more than two consecutive three year terms,
 followed by at least a one year hiatus before serving any new term(s).
 
-Anyone who has participated in a Carpentries event in any capacity
-(learner, helper, instructor, organizer, board member or host) at UiO or elsewhere in
-the past 2 years will be eligible to vote.
-
 Elections will be held at an annual community meeting each year
 preferably taking place in November or December.
 The two candidates who received the largest number
@@ -85,7 +81,7 @@ of votes will constitute the newly elected members of the next board.
 In case of ties, 
 a new round of voting takes place restricted to the tied candidates.
 
-## Vacancies inbetween elections
+## Vacancies in between elections
 
 If an elected board member needs to step down from the board,
 the board will work to find a replacement to fill the empty seat
