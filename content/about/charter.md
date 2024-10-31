@@ -6,7 +6,7 @@ This charter describes our procedures and regulations.
 
 The organisation's board is made up of 8 members:
 
-- 6 members elected for 1 to 3 year terms. 
+- 6 members elected for 3 year terms. 
 - 2 members are designated by the UiO Library and Digital Scholarship Centre
 
 Elections will be organized every year for renewing two of the elected
