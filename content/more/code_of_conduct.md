@@ -1,7 +1,7 @@
 # Code of Conduct
 
 We follow the [Carpentries' Code of
-Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
+Conduct](https://docs.carpentries.org/policies/coc/)
 to provide an inclusive and supportive environment for our learners and
 our members. Any violation of our Code of Conduct should be reported, it
 will then be handled as quickly as possible and will remain
