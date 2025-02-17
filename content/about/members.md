@@ -1,28 +1,28 @@
 # Who are we?
 
 ## Board
-Désirée Treichler
-: UiO, Department of Geosciences (GEO)
-  _Chair_
-
 Federico Bianchini
 : UiO, Centre for bioinformatics (SBI)
-  _Vice Chair_
-  
-Luis Eduardo Munoz
-: UiO, Health-, Developmental- and Personality- psychology (HUP)
-  _Secretary_
-
-Mohamed Abdelhalim
-: UiO, Institute of Basic Medical Sciences (IMB)
-  _Communications officer_
-
-Nazeefa Fatima
-: UiO, Centre for bioinformatics (SBI)
-  _Community events officer_
+  _Chair_
 
 Ragnhild Sundsbak
 : UiO, Humanities and Social Sciences library (UB)
+  _Vice Chair_
+  
+Arturo Vera Ponce De Leon
+: NMBU, Faculty of Biosciences, Department of Animal and Aquacultural Sciences
+  _Secretary_
+
+Elisa Pierfederici
+: UiO, Library, Digital Scholarship Center (UB) 
+  _Communications officer_
+
+Luis Eduardo Munoz
+: UiO, Health-, Developmental- and Personality- psychology (HUP)
+  _Community events officer_
+
+Nazeefa Fatima
+: UiO, Centre for bioinformatics (SBI)
 _Elections officer_
 
 Elisa Pierfederici
@@ -73,6 +73,14 @@ For more information, [contact us](mailto:contact-us@carpentry.uio.no).
 * [Tina Visnovska](http://github.com/tinavisnovska)
 
 ## Previous board members
+Désirée Treichler
+: UiO, Department of Geosciences (GEO)
+_Chair_
+
+Mohamed Abdelhalim
+: UiO, Institute of Basic Medical Sciences (IMB)
+ _Communications officer_
+
 Lex Nederbragt
 : UiO, Department of BioSciences (IBV) and Department of Informatics (IFI)
 _Chair_ 
