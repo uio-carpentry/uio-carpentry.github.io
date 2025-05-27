@@ -9,7 +9,7 @@ Inbetween workshops we meet for study groups. To learn more about the study grou
 
 ## Upcoming Workshops
 
-{{< event-feed "https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/?vrtx=feed" >}}
+{{< event-feed "https://www.ub.uio.no/english/courses-events/courses/carpentry/?vrtx=feed" >}}
 
 
 ## Past Workshops
