@@ -16,6 +16,22 @@ Inbetween workshops we meet for study groups. To learn more about the study grou
 <!-- Put the upcoming workshops in the list and out-comment them so they won't be shown.
 If the workshop has happened, take the comment brackets away et voilá! -->
 
+### 2023
+
+#### Workshops
+* March [Plotting and Programming with Python (Gapminder), March 8](https://www.ub.uio.no/english/courses-events/courses/carpentry/2023/230306_python)
+* March [Data Carpentry: Social Sciences and Humanities Using R, March 14 -15](https://www.ub.uio.no/english/courses-events/courses/carpentry/2023/230314_dcssh)
+* March [Carpentry: The Unix shell: tips and tricks to make your life easier - March 21](https://www.ub.uio.no/english/courses-events/courses/carpentry/2023/230321_ttshell)
+* April [Carpentry: R for Reproducible Scientific Analysis (Novices) - April 24](https://www.ub.uio.no/english/courses-events/courses/carpentry/2023/230424_rrepro)
+* May [Carpentry: Unix Shell - May 9](https://www.ub.uio.no/english/courses-events/courses/carpentry/2023/230509_shell)
+* May [Data Carpentry: Social Sciences and Humanities Using R, May 30-31](https://www.ub.uio.no/english/courses-events/courses/carpentry/2023/230530_dcssh)
+* June [How to use {targets} for effective workflows in R](https://www.ub.uio.no/english/courses-events/courses/carpentry/2023/230608-targetsr)
+* September [Carpentry: Version Control with Git - September 19](https://www.ub.uio.no/english/courses-events/courses/carpentry/2023/230919_git)
+* October [Carpentry: Unix Shell - October 12](https://www.ub.uio.no/english/courses-events/courses/carpentry/2023/231012_shell)
+* November [Data Carpentry: Social Sciences and Humanities Using R, November 6-7](https://www.ub.uio.no/english/courses-events/courses/carpentry/2023/231106_dcssh)
+* November [Carpentry: Plotting and Programming with Python, November 13 (9:00-13:00) and 17 (9:00-13:00)](https://www.ub.uio.no/english/courses-events/courses/carpentry/2023/231113_python)
+* November [Carpentry: R for Reproducible Scientific Analysis (Novices) - November 16](https://www.ub.uio.no/english/courses-events/courses/carpentry/2023/231116_rrepro)
+
 ### 2022
 
 #### Two-day Data Carpentry Workshop
