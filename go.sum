@@ -2,6 +2,8 @@ github.com/alex-shpak/hugo-book v0.0.0-20201223105150-e53a638b2c81 h1:+Xf3pgGs9B
 github.com/alex-shpak/hugo-book v0.0.0-20201223105150-e53a638b2c81/go.mod h1:DvU1VD1ikK0ufuSgldRCwm4kVaEF0cQGdHUp16XjSVI=
 github.com/alex-shpak/hugo-book v0.0.0-20210203084232-cb57401039cd h1:vayg8pCaDSEHwin73mnx9KRG/s14GI5vL6FeRdsahNk=
 github.com/alex-shpak/hugo-book v0.0.0-20210203084232-cb57401039cd/go.mod h1:DvU1VD1ikK0ufuSgldRCwm4kVaEF0cQGdHUp16XjSVI=
+github.com/alex-shpak/hugo-book v0.0.0-20251019220708-2687e34ac095 h1:KKcWobH9xB+gId1ohl1JU9Trch3NJGbJAGSKi0lA0jo=
+github.com/alex-shpak/hugo-book v0.0.0-20251019220708-2687e34ac095/go.mod h1:L4NMyzbn15fpLIpmmtDg9ZFFyTZzw87/lk7M2bMQ7ds=
 github.com/uio-carpentry/organisational v0.0.0-20201221180334-531ca3ca8b34 h1:D/6QvXcH+hf6Swnk3OASZODLXM7vp1deL71zU2E5rZM=
 github.com/uio-carpentry/organisational v0.0.0-20201221180334-531ca3ca8b34/go.mod h1:6TwmbsLYkQyqM5C4mWHX+9mlMI6l5Ttb/qYFf6d34mI=
 github.com/uio-carpentry/organisational v0.0.0-20210211103539-e8e0edf63482 h1:Ac1Jzmbhrjxbmzf7M8pHWuWj49xb0PUMYX4zQg5SLPQ=
