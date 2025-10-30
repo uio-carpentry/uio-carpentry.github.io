@@ -7,7 +7,7 @@
 
 
 
-{{ $res := getJSON $jsonurl }}
+{{ $res := unmarshal $jsonurl }}
 
 {{ with $res.feed.entry }}
     {{ $entries := . }}
